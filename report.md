@@ -15,21 +15,3 @@ Generating three networks of different starting points, artist wise
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-How many people have acted in more than one movie *which they've directed themselves.*
-
-​                                                                                                  *that they self directed?*
-
-
-
