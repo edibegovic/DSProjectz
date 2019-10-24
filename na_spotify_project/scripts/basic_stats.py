@@ -1,8 +1,8 @@
 import networkx as nx
 import numpy as np
-import os
 import matplotlib.pyplot as plt
-import collections
+import collections, powerlaw, os
+from scipy.stats import linregress
 
 # variables
 
@@ -75,6 +75,14 @@ def degree_distribution_plotter(graph_object):
     axes.set_title("Log-log scale")
     fig.savefig("cum_deg_dist_log.png")
 
+    # plot fit to linear reg on log-log scale
+    x_for_reg = np.arange(len(array_for_log_log_plot))
+    slope, intercept, r_value, p_value, std_error = linregress(np.log10(x_for_reg), np.log10(array_for_log_log_plot))
+    print(f"intercept: \t{intercept}")
+    print(f"slope: \t{slope}")
+    plt.scatter(np.log10(x_for_reg), np.log10(array_for_log_log_plot))
+    
+
 def prune_network(graph_object, min_degree = 1):
     """
     Given graph prunes nodes with less than given degree
@@ -89,9 +97,42 @@ def prune_network(graph_object, min_degree = 1):
 
     for node in nodes_to_prune:
         graph_object.remove_node(node)
+
+    # additionally remove all nodes that have zero degree after this pruning
+    zero_deg_nodes = []
+    for node in graph_object.nodes():
+        if graph_object.degree(node) == 0:
+            zero_deg_nodes.append(node)
+
+    for node in zero_deg_nodes:
+        graph_object.remove_node(node)
+
     return graph_object
+
+def test_deg_dist(graph_object):
+    """
+    Check if powerlaw or ecponential is better fit for our degree distribution
+    Copied from exercise 3
+    """
+    degrees = sorted(dict(graph_object.degree()).values())
+    results = powerlaw.Fit(degrees, discrete = True)
+    R, p = results.distribution_compare('power_law', 'exponential') #R loglikelihood ratio of the two distributions
+
+    if (R > 0) and (p < .05):
+        R, p = results.distribution_compare('power_law', 'lognormal')
+        print(R, p)
+        if p < .05:
+            if R > 0:
+                print(f"Powerlaw hypotheses preferred (p = {p}, CDF exponent = {results.power_law.alpha}")
+            else:
+                print(f"Lognormal hypothesis preferred (p = {p}, mu = {results.lognormal.mu}, sigma = {results.lognormal.sigma})")
+        else:
+            print("Powerlaw and lognormal are indistinguishable.")
+    else:
+        print("We cannot rule out an exponential fit. Definitely not a power law.")
 
 if __name__ == '__main__':
     sp_graph = read_pickle_graph()
     pruned_graph = prune_network(sp_graph)
     degree_distribution_plotter(pruned_graph)
+    test_deg_dist(pruned_graph)
