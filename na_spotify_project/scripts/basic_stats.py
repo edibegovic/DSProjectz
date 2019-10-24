@@ -5,6 +5,7 @@ import collections, powerlaw, os
 from scipy.stats import linregress
 
 # variables
+genres = ['house', 'pop', 'hip hop', 'rap', 'classical', 'rock', 'tech', 'indie', 'metal', 'edm', 'step', 'elec', 'step', 'jazz']
 
 def read_pickle_graph():
     """
@@ -87,13 +88,21 @@ def prune_network(graph_object, min_degree = 1):
     """
     Given graph prunes nodes with less than given degree
     """
-    nodes_to_prune = []
+    nodes_to_prune = set()
     for node in graph_object.nodes(data = True):
+        genre_set = set()
         try:
             if (graph_object.degree(node[0]) <= min_degree) or len(node[1]['genres']) == 0:
-                nodes_to_prune.append(node[0])
+                nodes_to_prune.add(node[0])
+            else:
+                for possible_genre in genres:
+                    for genre_in_node in node[1]['genres']:
+                        if possible_genre in genre_in_node:
+                            genre_set.add(possible_genre)
+                if len(genre_set) == 0:
+                        nodes_to_prune.add(node[0])
         except KeyError:
-            nodes_to_prune.append(node[0])
+            nodes_to_prune.add(node[0])
 
     for node in nodes_to_prune:
         graph_object.remove_node(node)
