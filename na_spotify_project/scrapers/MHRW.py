@@ -6,6 +6,7 @@ import time
 import sys
 import spotipy.oauth2 as oauth2
 import spotipy
+import random
 
 c_id = '26f8a48dc0234bb89171b8b0316cfb37'
 cs = 'c9c42ef8492d401497c03c3f4faf819f'
@@ -19,11 +20,12 @@ result = spotify.search(q="artist:" + "Avicii", type="artist", limit=1)["artists
 print(result['uri'])
 
 artists_done = set()
+artists_skipped = set()
 albums_done = set()
 artist_queue = [result['uri']]
 
 cnter = 0
-while len(artists_done) < 20:
+while len(artists_done) < 500:
     cnter += 1
     # update token
     if cnter%500 == 0:
@@ -33,9 +35,12 @@ while len(artists_done) < 20:
 
     print(str(len(artists_done)))
     artist_uri = artist_queue.pop(0)
-    if artist_uri in artists_done:
+    
+    if artist_uri in artists_done or artist_uri in artists_skipped:
         continue
+    
     artists_done.add(artist_uri)
+    current_artist = artist = spotify.artist(artist_uri)
 
     # get albums
     results = spotify.artist_albums(artist_uri, album_type='album,single')
@@ -68,10 +73,16 @@ while len(artists_done) < 20:
             for track in tracks:
                 for artist in track['artists']:
                     if artist['uri'] != artist_uri:
-                        artist_queue.append(artist['uri'])
-                        if artist['uri'] not in G:
+
+                        artist = spotify.artist(artist['uri'])
+
+                        if artist['uri'] not in artists_skipped and artist['popularity'] > 0 and artist['uri'] not in artist_queue and current_artist['popularity']/artist['popularity'] > random.uniform(0, 1):
+                            artist_queue.append(artist['uri'])
                             print(artist['name'])
-                            artist = spotify.artist(artist['uri'])
+                        elif artist['uri'] not in artist_queue:
+                           artists_skipped.add(artist['uri']) 
+
+                        if artist['uri'] not in G:
                             G.add_node(artist['uri'], name=artist['name'], popularity=artist['popularity'], genres=artist['genres'], followers=artist['followers']['total'])
                         G.add_edge(artist['uri'], artist_uri, freq=1)
 
@@ -82,5 +93,6 @@ while len(artists_done) < 20:
 # for node, attr in G.nodes(data=True):
 #     print(node, attr)
 
-nx.write_gpickle(G, 'spotify_data.pickle')
+print(artists_done)
+nx.write_gpickle(G, 'spotify_data_MHRW.pickle')
 # nx.write_edgelist(G,'tessst.txt', data=True)

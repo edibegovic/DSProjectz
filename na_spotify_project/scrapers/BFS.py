@@ -23,7 +23,7 @@ albums_done = set()
 artist_queue = [result['uri']]
 
 cnter = 0
-while len(artists_done) < 20:
+while len(artists_done) <  500:
     cnter += 1
     # update token
     if cnter%500 == 0:
@@ -82,5 +82,5 @@ while len(artists_done) < 20:
 # for node, attr in G.nodes(data=True):
 #     print(node, attr)
 
-nx.write_gpickle(G, 'spotify_data.pickle')
+nx.write_gpickle(G, 'spotify_data_BFS.pickle')
 # nx.write_edgelist(G,'tessst.txt', data=True)
