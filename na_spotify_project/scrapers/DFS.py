@@ -7,7 +7,7 @@ import sys
 import spotipy.oauth2 as oauth2
 import spotipy
 
-c_id = '26f8a48dc0234bb89171b8b0316cfb37'
+c_id = 'a370d371bec74e759f4c9eae40393bdc'
 cs = 'c9c42ef8492d401497c03c3f4faf819f'
 credentials = oauth2.SpotifyClientCredentials(client_id = c_id, client_secret = cs)
 token = credentials.get_access_token()
