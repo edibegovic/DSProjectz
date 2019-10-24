@@ -26,7 +26,7 @@ cnter = 0
 while len(artists_done) < 500:
     cnter += 1
     # update token
-    if cnter%500 == 0:
+    if cnter%200 == 0:
         credentials = oauth2.SpotifyClientCredentials(client_id = c_id, client_secret = cs)
         token = credentials.get_access_token()
         spotify = spotipy.Spotify(auth=token)

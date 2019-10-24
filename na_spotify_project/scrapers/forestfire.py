@@ -28,13 +28,17 @@ cnter = 0
 while len(artists_done) < 500:
     cnter += 1
     # update token
-    if cnter%500 == 0:
+    if cnter%200 == 0:
         credentials = oauth2.SpotifyClientCredentials(client_id = c_id, client_secret = cs)
         token = credentials.get_access_token()
         spotify = spotipy.Spotify(auth=token)
 
     print(str(len(artists_done)))
-    artist_uri = artist_queue.pop(0)
+    
+    if len(artist_queue) > 0:
+        artist_uri = artist_queue.pop(0)
+    else:
+        artist_uri = artists_skipped.pop()
     
     if artist_uri in artists_done or artist_uri in artists_skipped:
         continue
@@ -75,8 +79,10 @@ while len(artists_done) < 500:
 
                         if randint(1, 15) > 1:
                             artists_skipped.add(artist['uri'])
+                        else:
+                            print(artist['name'])
+                            artist_queue.append(artist['uri'])
 
-                        artist_queue.append(artist['uri'])
                         if artist['uri'] not in G:
                             artist = spotify.artist(artist['uri'])
                             G.add_node(artist['uri'], name=artist['name'], popularity=artist['popularity'], genres=artist['genres'], followers=artist['followers']['total'])
