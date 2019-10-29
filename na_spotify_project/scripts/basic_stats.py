@@ -11,7 +11,7 @@ def read_pickle_graph():
     """
     Goes to data directory reads graph, returns it
     """
-    pickle_file_path = "/".join(os.path.abspath(os.path.curdir).split('/')[:-1]) + "/data/spotify_data.pickle"
+    pickle_file_path = "/".join(os.path.abspath(os.path.curdir).split('/')[:-1]) + "/data/spotify_data_DFS.pickle"
 
     return nx.read_gpickle(pickle_file_path)
 
@@ -29,7 +29,7 @@ def degree_distribution_plotter(graph_object):
     fig1, axes1 = plt.subplots()
     axes1.hist(degrees_array, bins = 100)
     axes1.set_title("Linear Scale")
-    fig1.savefig("degree_hist.png")
+    fig1.savefig("degree_hist_mhrw.png")
 
     # some basic stats
     print(f"number of nodes:\tN = {len(graph_object.nodes())}")
@@ -38,6 +38,9 @@ def degree_distribution_plotter(graph_object):
     print(f"max degree:\t\tmax k = {degrees_array.max()}")
     print(f"min degree:\t\tmin k = {degrees_array.min()}")
     print(f"median degree: \t\tmedian k = {np.median(degrees_array)}")
+
+    print(f"average clustering coefficient:\t{nx.average_clustering(graph_object)}")
+    print(f"global clustering coefficient:\t{nx.transitivity(graph_object)}")
 
     # build list for cummulative degree distribution
     element_counter = collections.Counter(degrees_array)
@@ -62,26 +65,32 @@ def degree_distribution_plotter(graph_object):
     fig2, axes2 = plt.subplots()
     axes2.plot(x, p_y, 'ro')
     axes2.set_title('Degree Distribution Linear Scale')
-    fig2.savefig('deg_dist_lin.png')
+    fig2.savefig('deg_dist_lin_mhrw.png')
 
     fig2, axes2 = plt.subplots()
     axes2.loglog(x, p_y, 'ro')
     axes2.set_title('Degree Distribution Log-log Scale')
-    fig2.savefig('deg_dist_log.png')
+    fig2.savefig('deg_dist_log_mhrw.png')
 
     # plot cummulative on log-log scale
     fig, axes = plt.subplots()
     axes.loglog(array_for_log_log_plot, lw = 4)
     axes.loglog()
     axes.set_title("Log-log scale")
-    fig.savefig("cum_deg_dist_log.png")
+    fig.savefig("cum_deg_dist_log_mhrw.png")
 
     # plot fit to linear reg on log-log scale
     x_for_reg = np.arange(len(array_for_log_log_plot))
-    slope, intercept, r_value, p_value, std_error = linregress(np.log10(x_for_reg), np.log10(array_for_log_log_plot))
+    x_for_reg[0] = 0.001
+    slope, intercept, r_value, p_value, std_error = linregress(np.log10(x_array), np.log10(np.cumsum(np.flip(y_array))))
     print(f"intercept: \t{intercept}")
-    print(f"slope: \t{slope}")
-    plt.scatter(np.log10(x_for_reg), np.log10(array_for_log_log_plot))
+    print(f"slope: \t\t{slope}")
+    fig3, axes3 = plt.subplots()
+    axes3.scatter(np.log10(x_array), np.log10(np.cumsum(np.flip(y_array))), label = "deg_dist")
+    genre_set = set()
+    axes3.plot(np.log10(x_array), intercept + slope * np.log10(x_array), 'r--', label = "linear_regression_fit")
+    axes3.legend()
+    fig3.savefig("lin_reg_fit.png")
     
 
 def prune_network(graph_object, min_degree = 1):
@@ -145,3 +154,4 @@ if __name__ == '__main__':
     pruned_graph = prune_network(sp_graph)
     degree_distribution_plotter(pruned_graph)
     test_deg_dist(pruned_graph)
+    nx.write_edgelist(pruned_graph, path = "r_analysis/dfs.edgelist", delimiter = ' ')
