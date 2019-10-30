@@ -1,34 +1,59 @@
 library(igraph)
 
-g <- make_empty_graph()
+processFiles <- function(edge_filepath, node_filepath, my_graph){
 
-processFile <- function(filepath){
-    # read file and process it to a vector of edges
+	# first process nodes and attributes
+	artist_ids = c()
+	artist_names = c()
+	genres = c()
+	popularities = c()
+	wrong_artists = c()
+
+	nodes_con = file(node_filepath, "r")
+	while (TRUE){
+		line = readLines(nodes_con, n = 1)
+		if (length(line) == 0){
+			break
+		}
+		a = strsplit(line, ";")[[1]]
+		if (length(a) == 4){
+			artist_id <- strsplit(a[1], ':')[[1]][3]
+			artist_ids <- c(artist_ids, artist_id)
+			artist_names <- c(artist_names, a[2])
+			genres <- c(genres, a[3])
+			popularities <- c(popularities, a[4])
+		} else{
+			wrong_artists <- c(wrong_artists, strsplit(a[1], ':')[[1]][3])
+		}
+	}
+	close(nodes_con)
+	my_graph <- my_graph + vertices(artist_ids)
+	my_graph <- set_vertex_attr(my_graph, 'artistname', V(my_graph), artist_names)
+	my_graph <- set_vertex_attr(my_graph, 'genre', V(my_graph), genres)
+	my_graph <- set_vertex_attr(my_graph, 'popularity', V(my_graph), popularities)
+	
+	# handle edges
     edges = c()
-    con = file(filepath, "r")
+    edges_con = file(edge_filepath, "r")
     while (TRUE){
-        line = readLines(con, n = 1)
+        line = readLines(edges_con, n = 1)
         if (length(line) == 0){
             break
         }
         a = strsplit(strsplit(line, ' ')[[1]][1], ':')[[1]][3]
         b = strsplit(strsplit(line, ' ')[[1]][2], ':')[[1]][3]
-        edges = c(edges, a, b)
+		if (!is.element(a, wrong_artists) & !is.element(b, wrong_artists)){
+        	edges = c(edges, a, b)
+		}
     }
-    close(con)
-    return (edges)
+    close(edges_con)
+	my_graph <- my_graph + edges(edges)
+	my_graph <- as.undirected(my_graph)
+
+    return (my_graph)
 }
 
-build_graph <- function(my_edges){
-    # given edgevector returns graph
-    my_vertices <- unique(my_edges)
-    g <- g + vertices(my_vertices)
-    g <- g + edges(my_edges)
-    return (g)
-}
+g <- make_empty_graph()
+g <- processFiles("final_edge_data.txt", "final_node_data.txt", g)
+#my_graph <- build_graph(this_edges)
 
-this_edges <- processFile("bfs.edgelist")
-my_graph <- build_graph(this_edges)
-
-print(centr_betw(my_graph, directed = FALSE))
-#print(V(g)))
