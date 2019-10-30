@@ -11,7 +11,7 @@ def read_pickle_graph():
     """
     Goes to data directory reads graph, returns it
     """
-    pickle_file_path = "/".join(os.path.abspath(os.path.curdir).split('/')[:-1]) + "/data/spotify_data_DFS.pickle"
+    pickle_file_path = "/".join(os.path.abspath(os.path.curdir).split('/')[:-1]) + "/data/spotify_data.pickle"
 
     return nx.read_gpickle(pickle_file_path)
 
@@ -29,7 +29,7 @@ def degree_distribution_plotter(graph_object):
     fig1, axes1 = plt.subplots()
     axes1.hist(degrees_array, bins = 100)
     axes1.set_title("Linear Scale")
-    fig1.savefig("degree_hist_mhrw.png")
+    fig1.savefig("degree_hist_final.png")
 
     # some basic stats
     print(f"number of nodes:\tN = {len(graph_object.nodes())}")
@@ -65,19 +65,19 @@ def degree_distribution_plotter(graph_object):
     fig2, axes2 = plt.subplots()
     axes2.plot(x, p_y, 'ro')
     axes2.set_title('Degree Distribution Linear Scale')
-    fig2.savefig('deg_dist_lin_mhrw.png')
+    fig2.savefig('deg_dist_lin_final.png')
 
     fig2, axes2 = plt.subplots()
     axes2.loglog(x, p_y, 'ro')
     axes2.set_title('Degree Distribution Log-log Scale')
-    fig2.savefig('deg_dist_log_mhrw.png')
+    fig2.savefig('deg_dist_log_final.png')
 
     # plot cummulative on log-log scale
     fig, axes = plt.subplots()
     axes.loglog(array_for_log_log_plot, lw = 4)
     axes.loglog()
     axes.set_title("Log-log scale")
-    fig.savefig("cum_deg_dist_log_mhrw.png")
+    fig.savefig("cum_deg_dist_log_final.png")
 
     # plot fit to linear reg on log-log scale
     x_for_reg = np.arange(len(array_for_log_log_plot))
@@ -99,20 +99,24 @@ def prune_network(graph_object, min_degree = 1):
     """
     nodes_to_prune = set()
     for node in graph_object.nodes(data = True):
-        genre_set = set()
+        this_node_genre = ''
+        current_genre_dict = dict()
         try:
             if (graph_object.degree(node[0]) <= min_degree) or len(node[1]['genres']) == 0:
                 nodes_to_prune.add(node[0])
             else:
-                for possible_genre in genres:
-                    for genre_in_node in node[1]['genres']:
-                        if possible_genre in genre_in_node:
-                            genre_set.add(possible_genre)
-                if len(genre_set) == 0:
-                        nodes_to_prune.add(node[0])
+                for genre_in_node in node[1]['genres']:
+                    for chosen_genre in genres:
+                        if chosen_genre in genre_in_node:
+                            current_genre_dict[chosen_genre] = current_genre_dict.get(chosen_genre, 0) + 1
+                sorted_x = sorted(current_genre_dict.items(), key = lambda kv: kv[1])
+                if len(sorted_x) > 0:
+                    node[1]['genres'] = sorted_x[::-1][0][0]
+                if len(current_genre_dict) == 0:
+                    nodes_to_prune.add(node[0])
         except KeyError:
             nodes_to_prune.add(node[0])
-
+    
     for node in nodes_to_prune:
         graph_object.remove_node(node)
 
@@ -154,4 +158,4 @@ if __name__ == '__main__':
     pruned_graph = prune_network(sp_graph)
     degree_distribution_plotter(pruned_graph)
     test_deg_dist(pruned_graph)
-    nx.write_edgelist(pruned_graph, path = "r_analysis/dfs.edgelist", delimiter = ' ')
+    #nx.write_edgelist(pruned_graph, path = "r_analysis/dfs.edgelist", delimiter = ' ')
