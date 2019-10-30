@@ -153,9 +153,21 @@ def test_deg_dist(graph_object):
     else:
         print("We cannot rule out an exponential fit. Definitely not a power law.")
 
+def write_graph_files_for_r(graph_object):
+    """
+    Write nodes and edges files to parse for R
+    """
+    with open('r_analysis/final_node_data.txt', "w") as this_file:
+        for current_node in graph_object.nodes(data = True):
+            this_file.write(f"{current_node[0]};{current_node[1]['name']};{current_node[1]['genres']};{current_node[1]['popularity']}\n")
+    with open('r_analysis/final_edge_data.txt', 'w') as this_file:
+        for current_edge in graph_object.edges():
+            this_file.write(f"{current_edge[0]} {current_edge[1]}\n")
+
+
 if __name__ == '__main__':
     sp_graph = read_pickle_graph()
     pruned_graph = prune_network(sp_graph)
     degree_distribution_plotter(pruned_graph)
     test_deg_dist(pruned_graph)
-    #nx.write_edgelist(pruned_graph, path = "r_analysis/dfs.edgelist", delimiter = ' ')
+    write_graph_files_for_r(pruned_graph)
