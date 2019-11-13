@@ -1,0 +1,44 @@
+community discovery:
+
+cluster_edge_betweenness(directed = FALSE) 
+	- we remove edge with highest betweenness score we get hierarchical map
+	- returns communities
+
+cluster_fast_greedy()
+	- for finding community structure in very large networks
+
+cluster_infomap()
+	- minimizes the expected description length of a random walk trajectory
+
+cluster_label_prop()
+	- fast, nearly linear time
+
+cluster_leading_eigen()
+	- based on leading eignevector of the modularity matrix
+
+cluster_louvain()
+	- based on modularity measure
+	- in every step vertices are reassigned in a local greedy way
+
+cluster_optimal()
+	- optimizing modularity measure
+	- probably too big for ours
+
+cluster_spinglass(spins = 25, update.rule = c("config", "random", "simple"))
+
+cluster_walktrap()
+	- random walks
+
+else:
+
+compare(comm1, comm2, method)
+	- to compare community structures
+
+groups(comm)
+	- creates groups of community detection result
+
+membership(comm)
+algorithm(comm)
+sizes(comm)
+plot(as.dendogram(comm))
+plot(fc, g, col = membership(fc), vertex.label = NA)

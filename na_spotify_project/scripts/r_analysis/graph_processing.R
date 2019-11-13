@@ -55,5 +55,7 @@ processFiles <- function(edge_filepath, node_filepath, my_graph){
 
 g <- make_empty_graph()
 g <- processFiles("final_edge_data.txt", "final_node_data.txt", g)
-#my_graph <- build_graph(this_edges)
+
+# this is where community detection happens
+
 
