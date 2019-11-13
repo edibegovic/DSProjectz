@@ -58,4 +58,5 @@ g <- processFiles("final_edge_data.txt", "final_node_data.txt", g)
 
 # this is where community detection happens
 
-
+# function to write groups to file
+# lapply(groups(x), function(x) write.table(data.frame(x), 'filename.csv', append = T, sep = ','))
