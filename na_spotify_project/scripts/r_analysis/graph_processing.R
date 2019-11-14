@@ -53,6 +53,16 @@ processFiles <- function(edge_filepath, node_filepath, my_graph){
     return (my_graph)
 }
 
+
+# clustering function
+community_detection_in_graph <- function(method = cluster_fast_greedy, graph = g, filename = 'cluster_fast_greedy_groups.csv'){
+	comm_object <- method(graph)
+	print(sizes(comm_object))
+	print(algorithm(comm_object))
+	plot(comm_object, graph, col = membership(comm_object), vertex.label = NA, vertex.size = 3)
+	lapply(groups(comm_object), function(x) write.table(data.frame(x), filename, append = T, sep = ','))
+}
+
 g <- make_empty_graph()
 g <- processFiles("final_edge_data.txt", "final_node_data.txt", g)
 
