@@ -12,6 +12,8 @@ fast_greedy_file = 'cluster_fast_greedy_groups.csv'
 infomap_file = 'cluster_infomap_groups.csv'
 label_prop_file = 'cluster_label_prop_groups.csv'
 louvain_file = 'cluster_louvain_groups.csv'
+leading_eigen_file = 'cluster_leading_eigen_groups.csv'
+walktrap_file = 'cluster_walktrap_groups.csv'
 
 def parse_groups(filename):
     """
@@ -37,21 +39,25 @@ def check_similarity(community_dict, pruned_graph):
         if node[0].split(':')[2] in community_dict:
             genre_list.append(node[1]['genres'])
             group_list.append(community_dict[node[0].split(':')[2]])
-    print(f"group list: {len(group_list)}")
-    print(f"genre list: {len(genre_list)}")
+    #print(f"group list: {len(group_list)}")
+    #print(f"genre list: {len(genre_list)}")
 
-    print(metrics.normalized_mutual_info_score(np.array(group_list), np.array(genre_list)))
+    #print(metrics.normalized_mutual_info_score(np.array(group_list), np.array(genre_list)))
 
     # check for genre distribution
-    print(collections.Counter(group_list).keys())
+    for group_id in collections.Counter(group_list).keys():
+        current_list = []
+        for idx,current_id in enumerate(group_list):
+            if group_id == current_id:
+                current_list.append(genre_list[idx])
+        print(collections.Counter(current_list))
 
 
 def read_pickle_graph():
     """
     Goes to data directory reads graph, returns it
     """
-    print(os.path.abspath(os.path.curdir))
-    pickle_file_path = "/".join(os.path.abspath(os.path.curdir).split('\\')[:-2]) + "\\data\\spotify_data.pickle"
+    pickle_file_path = "/".join(os.path.abspath(os.path.curdir).split('/')[:-2]) + "/data/spotify_data.pickle"
 
     return nx.read_gpickle(pickle_file_path)
 
@@ -97,5 +103,5 @@ if __name__ == '__main__':
     sp_graph = read_pickle_graph()
     pruned_graph = prune_network(sp_graph)
     print(len(pruned_graph.nodes()))
-    this_groups_dict = parse_groups(label_prop_file)
+    this_groups_dict = parse_groups(leading_eigen_file)
     check_similarity(this_groups_dict, pruned_graph)
