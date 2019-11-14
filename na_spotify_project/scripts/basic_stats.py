@@ -5,7 +5,7 @@ import collections, powerlaw, os
 from scipy.stats import linregress
 
 # variables
-genres = ['house', 'pop', 'hip hop', 'rap', 'classical', 'rock', 'tech', 'indie', 'metal', 'edm', 'step', 'elec', 'step', 'jazz']
+genres = ['house', 'pop', 'hip hop', 'rap', 'classical', 'rock', 'tech', 'indie', 'metal', 'edm', 'step', 'elec', 'jazz']
 
 def read_pickle_graph():
     """

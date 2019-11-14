@@ -1,0 +1,73 @@
+I. fast_greedy
+
+- 47 groups
+	- 2518, 2245, 1029,  9pieces > 80
+
+- modularity: 0.5772
+- nmi: 0.3062 
+
+II. infomap
+
+- 389 groups
+	- 14pieces > 100
+
+- modularity: 0.5631
+- nmi: 0.363
+
+III. label_propagation
+
+- 21 groups
+	- 5302 rest under 1000
+
+- modularity: 0.4286
+- nmi: 0.3066
+
+IV. multi_level_louvain
+
+- 21 groups
+	- 2118, 1545, 755
+
+- modularity: 0.6386
+- nmi: 0.3267
+
+V. leading_eigenvector
+
+- 10 groups !
+	- 2574, 2005, 1770, 989, 2groups very small
+
+- modularity: 0.5571
+- nmi: 0.2746
+
+VI. walktrap
+
+- 125 groups
+	- 3056, 1581
+
+- modularity: 0.6028
+- nmi: 0.3691
+
+fg vs
+	info: 0.4971
+	lp: 0.4695
+	lo: 0.603
+	le: 0.4553
+	wt: 0.5477
+
+info vs
+	lp: 0.3849
+	lo: 0.5437
+	le: 0.3661
+	wt: 0.5654
+
+lp vs
+	lo: 0.5094
+	le: 0.4336
+	wt: 0.5587
+
+lo vs
+	le: 0.4893
+	wt: 0.6161
+
+le vs
+	wt: 0.4618
+

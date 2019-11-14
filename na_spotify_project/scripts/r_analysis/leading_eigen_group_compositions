@@ -1,0 +1,11 @@
+8261
+Counter({'classical': 775, 'pop': 67, 'hip hop': 50, 'rock': 24, 'rap': 23, 'indie': 15, 'house': 11, 'jazz': 10, 'elec': 5, 'step': 4, 'edm': 3, 'metal': 1, 'tech': 1})
+Counter({'house': 717, 'pop': 538, 'elec': 257, 'tech': 213, 'hip hop': 179, 'step': 173, 'indie': 141, 'edm': 113, 'rap': 96, 'rock': 63, 'jazz': 45, 'classical': 31, 'metal': 8})
+Counter({'rap': 858, 'pop': 371, 'hip hop': 334, 'rock': 61, 'indie': 40, 'house': 33, 'elec': 26, 'jazz': 17, 'metal': 13, 'edm': 8, 'step': 5, 'tech': 2, 'classical': 2})
+Counter({'house': 762, 'tech': 371, 'pop': 270, 'elec': 267, 'edm': 99, 'indie': 60, 'rock': 60, 'step': 54, 'jazz': 18, 'rap': 17, 'hip hop': 13, 'metal': 7, 'classical': 7})
+Counter({'pop': 138, 'hip hop': 78, 'rap': 74, 'elec': 17, 'rock': 7, 'house': 6, 'step': 6, 'indie': 3, 'edm': 2, 'jazz': 2, 'tech': 1})
+Counter({'pop': 118, 'hip hop': 82, 'house': 51, 'elec': 27, 'rap': 25, 'tech': 23, 'rock': 21, 'edm': 9, 'indie': 5, 'step': 1})
+Counter({'rock': 32, 'pop': 21, 'rap': 7, 'hip hop': 5, 'house': 3, 'metal': 1})
+Counter({'pop': 130, 'classical': 8, 'indie': 6, 'hip hop': 4, 'rock': 2, 'step': 2, 'jazz': 1})
+Counter({'pop': 1, 'house': 1})
+Counter({'house': 2})
