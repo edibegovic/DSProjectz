@@ -59,6 +59,7 @@ community_detection_in_graph <- function(method = cluster_fast_greedy, graph = g
 	comm_object <- method(graph)
 	print(sizes(comm_object))
 	print(algorithm(comm_object))
+	print(modularity(g, membership(comm_object)))
 	plot(comm_object, graph, col = membership(comm_object), vertex.label = NA, vertex.size = 3)
 	lapply(groups(comm_object), function(x) write.table(data.frame(x), filename, append = T, sep = ','))
 }
