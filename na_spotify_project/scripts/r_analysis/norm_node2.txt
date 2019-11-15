@@ -1,0 +1,1138 @@
+spotify:artist:2fVW2ix4ANKiofDZIsy1XR;Vargas & Lagola;pop;69
+spotify:artist:4bL2B6hmLlMWnUEZnorEtG;Felix Jaehn;edm;77
+spotify:artist:5lKZWd6HiSCLfnDGrq9RAm;Leona Lewis;pop;72
+spotify:artist:5tuOpj3ofDA06hxQjvjdGZ;Angger Dimas;edm;41
+spotify:artist:1kgxTtyF91VaqLD3J6Krd5;Hellberg;step;54
+spotify:artist:6pcxIOhQCNb7DX2iuEXgxL;Tobtok;house;56
+spotify:artist:2qxJFvFYMEDqd7ui6kSAcq;Zedd;edm;83
+spotify:artist:1l2ekx5skC4gJH8djERwh1;Don Diablo;edm;76
+spotify:artist:0daugAjUgbJSqdlyYNwIbT;Vicetone;step;68
+spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg;Kendrick Lamar;rap;88
+spotify:artist:0rlKkLkpsCnJbZethGBfAk;Captain Cuts;edm;69
+spotify:artist:5728TFNG2bx7GzacEAz3yU;Damien N-Drix;house;52
+spotify:artist:3tQx1LPXbsYjE9VwN1Peaa;Marc E. Bassy;indie;71
+spotify:artist:1XU5MjR4kex9BGyY4UMtta;Tom & Collins;edm;50
+spotify:artist:5Igpc9iLZ3YGtKeYfSrrOE;Chris Lake;step;67
+spotify:artist:5jAMCwdNHWr7JThxtMuEyy;NOTD;edm;75
+spotify:artist:173M6tvnbPT1Wp5ucD0uAS;Sebastien;house;49
+spotify:artist:1bJJlRHoc1UVeqzxcrPLIw;Phantoms;edm;52
+spotify:artist:0tOrKkXIn3VYyVHFEPG6Xd;Galimatias;step;63
+spotify:artist:3FdLhnmXynPvZkbILPpB6d;Ladysmith Black Mambazo;pop;53
+spotify:artist:4j5KBTO4tk7up54ZirNGvK;NERVO;edm;61
+spotify:artist:3r17AfJCCUqC9Lf0OAc73G;Fergie;rap;72
+spotify:artist:6hyMWrxGBsOx6sWcVj1DqP;Sebastian Ingrosso;edm;66
+spotify:artist:1k8VBufn1nBs8LN9n4snc8;Stereo MC's;jazz;49
+spotify:artist:5KKpBU5eC2tJDzf0wmlRp2;RAYE;house;74
+spotify:artist:3h11MHQeCrcsUgRRijI1zL;Mark Knight;edm;57
+spotify:artist:0DRf6JJDQnRnz0Yp209CmH;Stadiumx;edm;59
+spotify:artist:0oO1IaDOBSeI96HbnCa5pZ;Solardo;house;61
+spotify:artist:6vXTefBL93Dj5IqAWq6OTv;French Montana;rap;83
+spotify:artist:70c48bioArCGTsN9pH04NT;Osrin;edm;42
+spotify:artist:4Wjf8diP59VmPG7fi4y724;Cedric Gervais;edm;70
+spotify:artist:7sAqpkrQBaOkddsv1Tz1XK;Mosimann;pop;45
+spotify:artist:5GehdPjguGOCZifnKNrXi9;Tim Mason;house;33
+spotify:artist:6eUtrZgzxqbV7zMxzN3Sz2;twoloud;edm;54
+spotify:artist:0XuMowqsbFr0TmhOHfmWuc;Joey Moe;hip hop;53
+spotify:artist:64MoFdq8ORI3V98AR5SPWL;BT;house;52
+spotify:artist:5t8dw8yCWNAezW6wP3ZOGh;Alex Kunnari;edm;33
+spotify:artist:6TQj5BFPooTa08A7pk8AQ1;Kaskade;edm;72
+spotify:artist:5kA5yw8TqGXqQ9Lk7fFYhb;Thompson;rock;40
+spotify:artist:3uph1BLMQ2Xbb4rDifBJa6;Wighnomy Brothers;tech;17
+spotify:artist:5JrVokmullzV1zq8M8iP69;Leah;metal;39
+spotify:artist:2CIMQHirSU0MQqyYHq0eOx;deadmau5;edm;69
+spotify:artist:6JUsbe4yjY4fZbXTtpyfh6;Nalin & Kane;tech;44
+spotify:artist:3GCuuMLMs37izZ3q5vFpcX;Billie Ray Martin;house;31
+spotify:artist:5GxyeQagayzZOg4UwffQlD;Chicane;house;55
+spotify:artist:0frSMmZSEdr8pVRi8PBSwF;Kai Tracid;tech;38
+spotify:artist:1qq5e02CcWNFqZMbmdrIcj;Jonas Aden;edm;56
+spotify:artist:6xdRb2GypJ7DqnWAI2mHGn;MUNA;indie;60
+spotify:artist:7e1BNCygl2Gf7CX8LrByPv;Ummet Ozcan;edm;63
+spotify:artist:69GGBxA162lTqCwzJG5jLp;The Chainsmokers;edm;89
+spotify:artist:6S0dmVVn4udvppDhZIWxCr;Sean Kingston;rap;72
+spotify:artist:76ftqv1cm1EkrgWiC1pUUV;Cimo Fränkel;pop;51
+spotify:artist:6Vh6UDWfu9PUSXSzAaB3CW;Example;house;63
+spotify:artist:2jbP92oFLWqPqogflK1wlW;Skream;step;52
+spotify:artist:6VD4UEUPvtsemqD3mmTqCR;Deorro;edm;72
+spotify:artist:50kceDjknh0CjwOko7kx7V;Jewelz & Sparks;edm;54
+spotify:artist:2K7Mq9tikWmSfodrb6ZyD3;SLATIN;edm;50
+spotify:artist:4zYX8Aa744hQ5O2hpAYQI3;Mike Cervello;step;52
+spotify:artist:2WvLeseDGPX1slhmxI59G3;Robin S;house;60
+spotify:artist:25vU5DYwHIHhg1ViWV3SJq;Savoy;step;42
+spotify:artist:2cWHSNGKFjduFkknBZlQP0;Darren Mase;step;0
+spotify:artist:7bXgB6jMjp9ATFy66eO08Z;Chris Brown;rap;92
+spotify:artist:4QVBYiagIaa6ZGSPMbybpy;Pedro Capó;pop;83
+spotify:artist:4o7tWrzQOqarDtTMWD2HV9;LAY;pop;62
+spotify:artist:5MOWxZWdW3Hi4IPyyRrRTi;Hollaphonic;indie;38
+spotify:artist:1ZUpQr4VSnnP86WbaRRMpd;Jay Pryor;edm;56
+spotify:artist:29pQjcc1XsJa7Aeezho17b;George Kwali;indie;42
+spotify:artist:4GLJPBj5Cdr9AgLKvLWM4n;Dragonette;indie;58
+spotify:artist:37fzXndf2fxVrk7qarhyo0;Leo Stannard;indie;53
+spotify:artist:2Wzb0u138rgoZQTK3ytknT;BEAUZ;edm;54
+spotify:artist:378dH6EszOLFShpRzAQkVM;Lindsey Stirling;pop;71
+spotify:artist:2O2dI9lY9PnWtAa4OlrgMi;Pell;indie;55
+spotify:artist:28j8lBWDdDSHSSt5oPlsX2;ZHU;edm;71
+spotify:artist:7gWumE1wMALHXANLSIt054;Dreezy;rap;65
+spotify:artist:0tMr0e1EQZ0Vci7EHz2bM9;Shadow Child;tech;49
+spotify:artist:6qgnBH6iDM91ipVXv28OMu;KAYTRANADA;hip hop;69
+spotify:artist:0lVH4ReyYkoPMxFDzCQSgO;Fekky;hip hop;47
+spotify:artist:4UXqAaa6dQYAk18Lv7PEgX;Fall Out Boy;rock;84
+spotify:artist:6DyxyAiluuZ008t0ITLwOI;Iris Gold;indie;30
+spotify:artist:7xwN3wuAbcvsSsY4fj1iLA;My Digital Enemy;tech;33
+spotify:artist:2zviRwkdWgt0rjV3cxM7mg;Mario Ochoa;tech;42
+spotify:artist:6CVPDt9FXmWEaq3jCoKAZb;ILY;pop;52
+spotify:artist:0nNnD1oc02hebmFdcJkyXw;Leon Lour;edm;43
+spotify:artist:0gT2b7kbRgn15nSNPe3lgf;Holl & Rush;edm;47
+spotify:artist:27feHJH3VKyk8FgOndiWU8;Taylr Renee;step;47
+spotify:artist:5L56gAwU2WofuHHOpLC0BU;Tiger Stripes;tech;44
+spotify:artist:4xnMDfgEmXZEEDdITKcGuE;Audien;edm;64
+spotify:artist:1rSGNXhhYuWoq9BEz5DZGO;ARTY;edm;66
+spotify:artist:521qvhdobR0GzhvU6TFw76;Tritonal;edm;65
+spotify:artist:6duWCqMhaEvKA0P0MVs0zQ;Ferry Tayle;house;40
+spotify:artist:1ooAqaFu4Ac3BO2HpL4V2R;Henrik Schwarz;tech;51
+spotify:artist:6xs8YWLAW2FdCpmzEE0loe;NaakMusiQ;house;30
+spotify:artist:4QlgeNz8Uf8xF0f0LNjCbf;Busi Mhlongo;jazz;27
+spotify:artist:2jGvmFH6YE352p9LKmuB0y;Manse;edm;50
+spotify:artist:77EAOVBtxoblOGmuFw9i81;Alexey Romeo;step;18
+spotify:artist:6nNKPNNjOy3my0IYO8l0v4;Lucky Date;house;37
+spotify:artist:0Xp3PoeuaiJubx3FJIZFDn;JoeySuki;house;24
+spotify:artist:2rTo8KIkBTFjQS7VvaKYQ4;W&W;edm;69
+spotify:artist:6MF9fzBmfXghAz953czmBC;Taio Cruz;edm;71
+spotify:artist:6C0KWmCdqrLU2LzzWBPbOy;Headhunterz;edm;65
+spotify:artist:7kABWMhjA5GIl9PBEasBPt;Sunnery James & Ryan Marciano;edm;59
+spotify:artist:6TASDj2ogOKQptnxgEvrcP;Jowell;hip hop;54
+spotify:artist:2akNRvGNB400IDDUMr1PHW;Steffany Gretzinger;indie;65
+spotify:artist:5WcisvYoq6332gCUX039Jd;We Are Messengers;rock;54
+spotify:artist:24hRAuZo7dwQ2grtqmg1Rq;RedTop;edm;18
+spotify:artist:7r2uG6BlFXKcwmh9ItqlII;Wrabel;rock;68
+spotify:artist:0Ty63ceoRnnJKVEYP0VQpk;Sting;rock;72
+spotify:artist:63u2Nb3gH0q3PinIuvPBs0;Rob & Jack;house;43
+spotify:artist:3Uwmqk0ODqYO26E1hSzeNv;Filth Collins;step;12
+spotify:artist:0Uh7PxwmTPlbP3TbwBG41h;Inaya Day;house;36
+spotify:artist:1pSL70X1b4ZHqFga2HCLYp;Lalu;metal;1
+spotify:artist:4CuipEvwcoQggmCV8jpKF9;Michael Calfan;edm;60
+spotify:artist:3WOOglGBDGvr6c2WBeMAWn;Urban Cone;indie;51
+spotify:artist:5ICm42Qd6Mxunp1xyBGUp0;Adam Tensta;hip hop;35
+spotify:artist:0MNbjdRcXpvAwnXgWd1Im1;Las Guanabanas;hip hop;35
+spotify:artist:2PC3QVYzOPekKLIppjFUoi;Dirtcaps;house;51
+spotify:artist:3rNP0CUzTxxuNpc3ze8rXV;Prolix;step;37
+spotify:artist:1jtMJcoad2upUn3YKYhjBD;Lucas Reyes;tech;9
+spotify:artist:567CChDKZrtF4rnk2r5JeP;Blu & Exile;jazz;40
+spotify:artist:17Zu03OgBVxgLxWmRUyNOJ;Knxwledge;hip hop;60
+spotify:artist:5yo8fZ858OMKhZ6eowrdN7;Alchemist;metal;24
+spotify:artist:1020a42xVklY6c56imNcaa;Slum Village;hip hop;56
+spotify:artist:19tdzR0mBQe9NrCyXvzw3p;Caterina Caselli;pop;42
+spotify:artist:1HRqqu7DoKzpIBvdU7Jjib;Girls In Hawaii;rock;42
+spotify:artist:77ehFS1P2bU6Bfcs1qu6Jd;Regi;edm;55
+spotify:artist:3E61SnNA9oqKP7hI0K3vZv;CALVO;edm;61
+spotify:artist:7KAGJwWQQui8b0uqwXRkSr;Gestört aber GeiL;house;65
+spotify:artist:2GST08xzn3dJilysjDhSmi;Sharon Den Adel;metal;48
+spotify:artist:1WjBIvYAnZTkTh5UiZNwlR;Oliver Koletzki;tech;59
+spotify:artist:0XybrHmCYZwdq2aCSlV0Wh;Rasta G;hip hop;30
+spotify:artist:1x0ScxgiyFRQDKT4VwcLHa;LNY TNZ;edm;58
+spotify:artist:1feoGrmmD8QmNqtK2Gdwy8;Tobu;step;59
+spotify:artist:7HkdQ0gt53LP4zmHsL0nap;Ella Mai;rap;79
+spotify:artist:6PDLwWvgYNMfBRLqC1h5cJ;Buddy;rap;74
+spotify:artist:4820AP0lvBGJjSK0PXgZgo;Ivory;step;37
+spotify:artist:1CXuuw8HJhyN80HlNzvL1e;Sullivan King;step;57
+spotify:artist:3oZDqlOiOQTolPJZsxivaN;Feki;edm;44
+spotify:artist:6syQjkQSMIrzw5cFnNRheo;Rincon Sapiência;rap;59
+spotify:artist:4xFadP7L1YVwVSjDDfjKjM;Snavs;step;57
+spotify:artist:2OIJq28O1lXrZ2x3NGSk8P;Pablo Nouvelle;indie;45
+spotify:artist:0Jsk5iYMr5aNjHury7blm1;Boef;hip hop;72
+spotify:artist:2YjydjpJfm9VAtiV0XRmkm;Sjaak;hip hop;55
+spotify:artist:2LIAgeQ5NZurwixfoG3CWZ;Alkaline;pop;60
+spotify:artist:6cpj6MeLF0pLx34Un9Bpj3;Alina Eremia;pop;46
+spotify:artist:3tVQdUvClmAT7URs9V3rsp;WizKid;hip hop;78
+spotify:artist:3Fe3yv5ZGCwcaMnlBltuT2;Unge Ferrari;indie;61
+spotify:artist:01HEACGPo5xyiXgAJKEvxQ;Daishi Dance;jazz;33
+spotify:artist:50JJSqHUf2RQ9xsHs0KMHg;Jon Bellion;rock;78
+spotify:artist:1muQ9itiu5KB1WiqehGoSy;Pernilla Andersson;pop;43
+spotify:artist:670UISOh9XV1zlq5z5IfoY;GOLDHOUSE;edm;58
+spotify:artist:62vbsDRAq0qHdezaCOzB0T;Medasin;edm;65
+spotify:artist:1KpCi9BOfviCVhmpI4G2sY;Tchami;edm;65
+spotify:artist:0lPhSdyfILTWuDUWJRyAk7;Cyn;indie;52
+spotify:artist:2mV8aJphiSHYJf43DxL7Gt;Chromeo;indie;59
+spotify:artist:32wcuqRxZuBY5HbH1bWa8h;Tube & Berger;tech;56
+spotify:artist:5qYCZ5FQuzZSjOnesvuYiD;Preditah;house;62
+spotify:artist:7qG3b048QCHVRO5Pv1T5lw;Enrique Iglesias;pop;79
+spotify:artist:2RQXRUsr4IW1f3mKyKsy4B;Noah Kahan;rock;72
+spotify:artist:6T56xtTEllGW17snjAZLNP;Gia Woods;indie;45
+spotify:artist:08yt0VBNhmjTKfuZvt8ALq;Loosid;step;33
+spotify:artist:0FPoqGEZFwHQfu5tRPL08X;Niko The Kid;edm;46
+spotify:artist:3cQA9WH8liZfeja1DxcDYE;Armand Van Helden;tech;61
+spotify:artist:0lqxqV3IhQXO5czq1d0ZfJ;Rickyxsan;step;49
+spotify:artist:0t3QQl52F463sxGXb1ckhB;Betty Who;indie;64
+spotify:artist:2iclO3rlyF0YVNE46ctYRj;Jungle Brothers;jazz;50
+spotify:artist:1K1m6K2IZOcbyabxB2jXjg;One Eskimo;rock;31
+spotify:artist:5mADpqv2E8KIHDmEhH7wmr;Figure;step;46
+spotify:artist:0zkoIIaqJT7WP0rly4rOMk;Roisto;edm;41
+spotify:artist:6XyY86QOPPrYVGvF9ch6wz;Linkin Park;metal;86
+spotify:artist:6VcDfoZ0pgSOd5rtQDmbo0;Future Jr.;indie;42
+spotify:artist:7o7mC95EDbJKTcPAAs8C3r;Big Gigantic;edm;62
+spotify:artist:7mnuMLgvXdCWzyB4sQCG7k;TWO LANES;rap;46
+spotify:artist:6mDl7lQiLxT0iQ8LYhAlWy;Zerb;edm;47
+spotify:artist:3q2dSq7VZnj8TmoJUyRm40;Cat Dealers;edm;71
+spotify:artist:1bZDq4po4dMIpN74Zendm0;Janieck;pop;67
+spotify:artist:3htNAy3vYWWYV8RZFeyRMT;Slow Magic;indie;48
+spotify:artist:4m1yRHUMhvB8gKAJTjK4kO;Boombox Cartel;step;61
+spotify:artist:41rVuRHYAiH7ltBTHVR9We;Slushii;step;65
+spotify:artist:1hHhlYmo4C03IoCJ7RnpS2;Eminence;step;37
+spotify:artist:6VXZCpbkwm0W0aPjQR1t4K;Youngblood Hawke;rock;50
+spotify:artist:6nBujjA6fus37LVZEqEULp;Cosmos & Creature;pop;49
+spotify:artist:3xDWzhtOet1qJ08MLimhSd;Michael Cassette;house;39
+spotify:artist:3jAosRBCdrybxqTnrI4Sld;Proff;house;42
+spotify:artist:3zRbZRa7hq2rF53zKpvJdH;Martin Villeneuve;tech;9
+spotify:artist:0suokA0Exjok9HBfB0Oc3X;The Disco Boys;tech;43
+spotify:artist:14rP13jdQNgQvuPA2AkBgm;Glades;indie;56
+spotify:artist:6LtgEnShwvrqAaKohg7skM;Hablot Brown;indie;49
+spotify:artist:3r0RZ55RKisnnF0jVcYrVR;Hazey Eyes;indie;48
+spotify:artist:63X5yxHWDkAl13ZIOWHV94;Lenii;pop;27
+spotify:artist:17lzZA2AlOHwCwFALHttmp;2 Chainz;rap;83
+spotify:artist:3kv1Edgn5HlEWCuEKr1Y9x;Yugen Blakrok;hip hop;49
+spotify:artist:0g9vAlRPK9Gt3FKCekk4TW;Ab-Soul;rap;64
+spotify:artist:7IF7emaerV9vIoAjey6IHe;Colin Munroe;indie;35
+spotify:artist:0NWbwDZY1VkRqFafuQm6wk;Mike WiLL Made-It;rap;70
+spotify:artist:7Dnu2NmddNymEI2LMZVH5v;Sleepy Brown;hip hop;58
+spotify:artist:1pPmIToKXyGdsCF6LmqLmI;Rich The Kid;rap;83
+spotify:artist:1sBkRIssrMs1AbVkOJbc7a;Rick Ross;rap;86
+spotify:artist:2p0Hf0MF8Nw8lwAXokczf0;Smif-N-Wessun;rap;55
+spotify:artist:35sCXuy5gN6Or69rZ9vqBs;Birdman;rap;66
+spotify:artist:5LHRHt1k9lMyONurDHEdrp;Tyga;rap;90
+spotify:artist:1382YT9VvGN6Pxu5PabehZ;Brisco;rap;38
+spotify:artist:5JSXWmQO8csVUy6hSRu8TA;Maty Noyes;indie;62
+spotify:artist:5QuBVnBPEzwYvFrgBbwpmU;Empress Of;indie;65
+spotify:artist:3GQboECxDT1xqPPWC30p7v;Charlotte Day Wilson;indie;61
+spotify:artist:42crL07E4WPfVovyUtMpvC;Robert DeLong;rock;53
+spotify:artist:69TcMkhvenAeokIhBGIUCQ;Bob;rock;57
+spotify:artist:0uzlfGNw35ha8bszBDhKy7;Killa Kyleon;rap;48
+spotify:artist:7N3L5HZxQqxWSfhrrTNI29;Jesse Boykins III;indie;50
+spotify:artist:4isewEHTP7Az2QheDdBQ6J;24hrs;rap;66
+spotify:artist:7Aq8lpLMSt1Zxu56pe9bmp;Jagged Edge;rap;65
+spotify:artist:0vqJkZ0RpLZixt3lTmD8vP;Whethan;edm;71
+spotify:artist:6I9TgZbapKRXsunA05fiPl;Fredo Santana;rap;49
+spotify:artist:7c5qu1gNlg8jWDzzmlp89O;Kraak & Smaak;jazz;55
+spotify:artist:64LEkaZmatB7DhVnkDlZhh;Sirkus Eliassen;hip hop;39
+spotify:artist:2ePIzx9NjxplS724QMZtsf;Yuksek;indie;51
+spotify:artist:7gQNLR8mykA1KjGClbPYHe;MNDR;indie;52
+spotify:artist:1UfzhwcOR4yfX7yHTPfC9m;Joywave;rock;59
+spotify:artist:1bgWqGp78w6C8CNPvD6Qlo;FWLR;step;41
+spotify:artist:46SokoBxhvsMp8x2NRV8qL;Andrey Exx;tech;39
+spotify:artist:0fkXyukXnUWN22x4ryLomM;Michael White;step;37
+spotify:artist:5R2GATpm4U3ef8PGROt67B;Lizzie Curious;tech;22
+spotify:artist:2EZV8dzqP82b7qZ3GY4v3N;Dj Rich Art;step;5
+spotify:artist:7EEiVZvj6RCEtVX2F2pyxu;Slim Jxmmi;rap;71
+spotify:artist:5AQVXVBupwWBMUC1A2JOkk;Jose Guapo;rap;40
+spotify:artist:6f4XkbvYlXMH0QgVRzW0sM;Waka Flocka Flame;rap;70
+spotify:artist:27w1NoOLMX7tJMYqcetPyG;Vic Mensa;rap;70
+spotify:artist:5mNB8ykTlENptzmsxXRtdS;Shawty Lo;rap;45
+spotify:artist:5uuOLt8VuEptgaeK5xpzPd;Alley Boy;rap;35
+spotify:artist:0eayuW5zGMgvXCEmcP7ivq;Trouble;metal;36
+spotify:artist:3Gr3VowS86A6dNdKvs7qH6;Pill;hip hop;30
+spotify:artist:3opP52YUU3kBoPizkJETnm;Nicole Wray;pop;39
+spotify:artist:7hf8UwFbyfEYZsy1wHttpF;V-Nasty;hip hop;25
+spotify:artist:1kfWoWgCugPkyxQP8lkRlY;Jackson Wang;hip hop;58
+spotify:artist:3IVrpJxHeUFoYP4H6bxg57;Kadebostany;rock;56
+spotify:artist:7h4wliUohMrd88VCNRlH3Y;Stalker Studio;jazz;1
+spotify:artist:0gadJ2b9A4SKsB1RFkBb66;Passenger;indie;75
+spotify:artist:68vOK9hGGvx1RMrpivSGRT;Ketjak;house;2
+spotify:artist:0BzTIDnFI4pvhy7vVNd41Z;Omar;jazz;42
+spotify:artist:2QSPrJfYeRXaltEEiriXN9;Tove Styrke;indie;64
+spotify:artist:4TeakFq7Xbpo0ihpTQrekM;Hector Couto;tech;39
+spotify:artist:2L8yW8GIoirHEdeW4bWQXq;TJR;edm;50
+spotify:artist:7pnpCbCBCIHvkCqrXSib0z;Steve Smith;jazz;29
+spotify:artist:2BQWHuvxG4kMYnfghdaCIy;Fox Stevenson;step;58
+spotify:artist:1I5pYXplsbqmHaVWlAEhla;Bougenvilla;edm;52
+spotify:artist:65NscqgsoMPqBtoLbkP3jD;Bolier;house;60
+spotify:artist:2PJEagPIxaBugeMjIyKVXF;Aitch;hip hop;78
+spotify:artist:76UCIJTB0jcJvBaL0CdIqx;Takagi & Ketra;pop;69
+spotify:artist:0CbeG1224FS58EUx4tPevZ;Timmy Trumpet;step;74
+spotify:artist:3eH2apcLhzhnr3eWmH3VBf;Felguk;edm;60
+spotify:artist:1Ejjxuav6kpsSyb6QIhjHa;Selva;edm;57
+spotify:artist:29bg2tYJCCyiuZdbsc9mFh;Jetlag Music;edm;62
+spotify:artist:5veVxxPm1vzgi6pO2iVA8L;Bruno Martini;edm;72
+spotify:artist:5Q9RKJrjHdfpWVxzv45XTJ;Mamonas Assassinas;rock;57
+spotify:artist:0QHgL1lAIqAw0HtD7YldmP;DJ Khaled;rap;81
+spotify:artist:7jZM5w05mGhw6wTB1okhD9;ATB;tech;60
+spotify:artist:3ePCIHipMKD4n8IBXBYWSm;Mark Sixma;edm;53
+spotify:artist:3jUtu6ALbeVTfpZqn9ccgc;Sir Felix;house;41
+spotify:artist:4mMQbktFunDczWJqlbhmha;Meizong;edm;20
+spotify:artist:7u160I5qtBYZTQMLEIJmyz;Borgore;step;60
+spotify:artist:5sdxGvwxI1TkTA6Pu2jnTb;Refused;metal;53
+spotify:artist:0XNa1vTidXlvJ2gHSsRi4A;Franz Ferdinand;rock;69
+spotify:artist:72iCiKwu6nu6Qq9emIwzYv;Kayzo;step;63
+spotify:artist:7MP4jhYmFEgb0AtiOkw55s;Play-N-Skillz;rap;63
+spotify:artist:7FBcuc1gsnv6Y1nwFtNRCb;My Chemical Romance;pop;77
+spotify:artist:6DIS6PRrLS3wbnZsf7vYic;WALK THE MOON;rock;72
+spotify:artist:2CCMfKbNyrZAlvWtVlpapo;Royal Disco;step;20
+spotify:artist:7okwEbXzyT2VffBmyQBWLz;Maná;rock;78
+spotify:artist:6NB4b8lltHCjOhW7vQZkAy;The Exploited;metal;45
+spotify:artist:1zFNYw5kgA7UEKWqNHf1Et;Dangerous Muse;pop;13
+spotify:artist:0xPTh8DwDdxMz2wjw1fMag;A Friend In London;rock;25
+spotify:artist:6G9bygHlCyPgNGxK2l3YdE;Vanessa Hudgens;pop;64
+spotify:artist:3VRyybsQu0MDG0F2LBxnv7;Noizu;house;47
+spotify:artist:5GImm0oU5MkW7OHkb91jwu;Wolfgang Lohr;jazz;49
+spotify:artist:6nHDuiu6PIpfWt6DswQHvL;Alpa Gun;hip hop;49
+spotify:artist:1mJucMwGjnCatEdVk9eedj;Alex Alexander;pop;57
+spotify:artist:7MSUfLeTdDEoZiJPDSBXgi;Brian Eno;rock;64
+spotify:artist:0TORlmlTHaneG9k4nWPn0V;Michael Forster;classical;38
+spotify:artist:7wNkISK49lKeXuRaZcQVFe;Ralph Vaughan Williams;classical;53
+spotify:artist:3YR92OLKlvkK5oKNekSqXe;Al Jarreau;jazz;57
+spotify:artist:4Sld5LOPbAm1QSq9U32fFV;John Hiatt;rock;53
+spotify:artist:1Uff91EOsvd99rtAupatMP;Claude Debussy;classical;68
+spotify:artist:14H7ag1wpQOsPPQJOD6Dqr;Zero 7;jazz;61
+spotify:artist:4IMAo2UQchVFyPH24PAjUs;Jowell & Randy;hip hop;73
+spotify:artist:1pgDilWYDWLoOgGjf1iHNu;Zion;hip hop;74
+spotify:artist:2AQjGvtT0pFYfxR3neFcvz;Jordin Sparks;rock;68
+spotify:artist:27FGXRNruFoOdf1vP8dqcH;Cassie;pop;62
+spotify:artist:1Xfmvd48oOhEWkscWyEbh9;Lloyd;rap;67
+spotify:artist:6GNKEqtVedvHFdhsdDtg2d;Entics;hip hop;43
+spotify:artist:5JYReWgOGu4JKm5pqmACqG;Devon Baldwin;indie;54
+spotify:artist:3u2R8st1bb6zfBqNWceRXG;MOD SUN;indie;53
+spotify:artist:1iH2Yx2Ea0kZ0zKI3Nlk30;Goody Grace;indie;61
+spotify:artist:0m9husdLSRyNHOuxFAr5hB;Rayven Justice;rap;48
+spotify:artist:6mbMvxJiHaK9mNPyKSPGjA;Jestofunk;jazz;38
+spotify:artist:0ie5vHvklMNEbWKqPOOEYB;Gizmo;rap;36
+spotify:artist:2JX4h8xm0hNxCB0aNBWzyi;Gyptian;rock;61
+spotify:artist:2y1VzMKAa5nmfXKtJL9jnj;Murda;hip hop;64
+spotify:artist:2eHZ1Vns5972fZNdhnjopG;Brace;rock;49
+spotify:artist:0IA4SdCS8HBDX6oBoOlgaf;F1rstman;hip hop;61
+spotify:artist:6vfR5QRc3xca0KvpG8KZBE;Teedra Moses;indie;51
+spotify:artist:3iuobQyYhofKRr5W6HZoKt;Phoebe Snow;jazz;41
+spotify:artist:0SQOIur6PFpZ7ACj9BX2Tv;SIROJ;hip hop;30
+spotify:artist:06HL4z0CvFAxyc27GXpf02;Taylor Swift;pop;96
+spotify:artist:7pfdZIl2mkfjW1sxpkFgNx;Marcello Coleman;indie;12
+spotify:artist:2jLE4BoXHriQ96JagEtiDP;Lauren Bennett;pop;60
+spotify:artist:1fGNdi2u7XLBVYaq6fJUaT;Soopafly;rap;30
+spotify:artist:5K0rbdBrs2tNXe5LeWMATT;Bootsy Collins;jazz;60
+spotify:artist:5GQgxUq4MOuXXV99WrRuev;Young Bleed;rap;42
+spotify:artist:7B4hKK0S9QYnaoqa9OuwgX;Eazy-E;rap;66
+spotify:artist:05RZIdfz59ZW2FvFuwnmNK;K-Ci & JoJo;pop;61
+spotify:artist:55TH3aMMK1u2VsR8DPGC6D;Mistah F.A.B.;rap;48
+spotify:artist:3m1knVGHFKK57xnleGMHcJ;Hell Rell;rap;36
+spotify:artist:2W8UTum7bU7ue6m0r14H97;The Dramatics;jazz;52
+spotify:artist:3whuHq0yGx60atvA2RCVRW;Olly Murs;house;71
+spotify:artist:5mMuiFhh7faS7qxnTLRA6u;Barrington Levy;rock;59
+spotify:artist:2oSONSC9zQ4UonDKnLqksx;Atif Aslam;pop;66
+spotify:artist:4YRxDV8wJFPHPTeXepOstw;Arijit Singh;pop;77
+spotify:artist:0Yb0T3wUUNiIvHjqnfkbuH;Mahalakshmi Iyer;pop;50
+spotify:artist:7fJYw1vK9yWb8o51I8qHin;Chad Kroeger;metal;55
+spotify:artist:40xbWSB4JPdOkRyuTDy1oP;Nicole Scherzinger;pop;64
+spotify:artist:4DToQR3aKrHQSSRzSz8Nzt;The Hives;rock;62
+spotify:artist:2zRt0sfxNnqI8gLR7d8gWt;She Wants Revenge;rock;53
+spotify:artist:2tSv9mEQSuNVMGr9qjYfkr;Mykki Blanco;rap;44
+spotify:artist:2Sqr0DXoaYABbjBo9HaMkM;Sara Bareilles;rock;73
+spotify:artist:04HvbIwBccFmRie5ATX4ft;Yeasayer;rock;53
+spotify:artist:4OPaH4YIqua9DUnI7t0fOQ;Mark With a K;edm;52
+spotify:artist:68PsxdwOmePEmaNZJgKBU3;KLYMVX;house;45
+spotify:artist:0tRKhBxSJk5ynXtsbKw3SB;Suspect 44;house;30
+spotify:artist:3xbmS6qcRWTyILBoaqAPT4;ANIMA!;pop;47
+spotify:artist:7vb7VLDqpLTlAy1ctTMR5d;Alex Gaudino;house;59
+spotify:artist:2MRmHQ6G4vEIIlMYbMLlQ5;Salem Al Fakir;jazz;40
+spotify:artist:4RddZ3iHvSpGV4dvATac9X;Papa Roach;metal;75
+spotify:artist:4Cqia9vrAbm7ANXbJGXsTE;Slash;rock;64
+spotify:artist:65c5si0ePAwkOCn4M35Ho7;Sérgio Mendes;jazz;57
+spotify:artist:3r7n7y3j0nYgkPePO4p3QC;Roxanne Shante;house;28
+spotify:artist:4s5ls5cqM7dUTeAJ9APLaO;Arkangel;metal;12
+spotify:artist:16dZa2oPx1k3aAUtO8UHfb;Nick Mentes;tech;10
+spotify:artist:2lPXenWgbh51R950CMdk6i;Kaiserdisco;tech;40
+spotify:artist:4JPGyWMMmaxIRcS4zItdHJ;Hermanez;edm;31
+spotify:artist:7fgdLbHjlVQE4sZ9L2awDq;Several Definitions;tech;30
+spotify:artist:71yD5VENn9Wy1IECnpYWvX;Khainz;tech;25
+spotify:artist:7Mlrzwh665lRUOEV1ZWyWu;David Tort;edm;42
+spotify:artist:1BKXfC7Sr2gN3PlWcPBzX8;Mike Garson;jazz;27
+spotify:artist:4c4Ce4N4vJOs3Tzee020S4;Planet Funk;rock;42
+spotify:artist:1D9XQXqh4YQfJwX7hyLWwr;Sleepy Tom;edm;54
+spotify:artist:2s5NDGgIbDzz20CgcMl21a;Les Bros;house;3
+spotify:artist:4TAoP0f9OuWZUesao43xUW;Mr Eazi;hip hop;74
+spotify:artist:659qXyHaiMTKxFjBMMDpo8;Mr. V;jazz;38
+spotify:artist:3BmGtnKgCSGYIUhmivXKWX;Kelly Clarkson;rock;78
+spotify:artist:4RJBAiwh6dSmqUZzCDMAyT;El Freaky;hip hop;44
+spotify:artist:2pvyE8W9RWESQxkyAWZqgY;Apache;rap;53
+spotify:artist:0MBLQbpbPvJ4oXM0Cj4aKR;Trobi;edm;45
+spotify:artist:1gem2RSU6vJ5LGfjleinnG;Silvio Luz;house;5
+spotify:artist:6mua3XFj5bU1vchhZcxgry;Julien Fuentes;tech;2
+spotify:artist:6Xmg3eGLl5BrXciXIzRNSl;Incognet;house;28
+spotify:artist:36OHRfWvgcTohhk0st9VC4;Still Young;edm;41
+spotify:artist:2o8lOQRjzsSC8UdbNN88HN;mansionz;indie;64
+spotify:artist:6dC0rIJNLSFZwqckLgXJ8p;Timeflies;indie;65
+spotify:artist:0gwbJK0gqRlOpIISp7BzJw;Rebolledo;tech;29
+spotify:artist:17pNJ0Wvq7CdkKAv8Eoh57;Angel Rize;house;1
+spotify:artist:1p6CdzJRoicjRcSdWoB9Qc;Mitchell Tenpenny;rock;69
+spotify:artist:7iymigONRODGl6XJIprcuF;Jocelyn Alice;pop;55
+spotify:artist:7z2avKuuiMAT4XZJFv8Rvh;Tom Walker;indie;76
+spotify:artist:5eqamHaRbXbUXLrhYcPK9f;Hilfilter;edm;19
+spotify:artist:0LIl9fjMPEZp8UDiL8Yuo4;4B;step;53
+spotify:artist:0Za5KjrhmN4OYMr04f3g1e;Halogen;rap;55
+spotify:artist:6mUjbb9eMEXtOS9oSPwYjg;Rico Bernasconi;house;44
+spotify:artist:3l0CmX0FuQjFxr8SK7Vqag;Clairo;indie;79
+spotify:artist:2RqrWplViWHSGLzlhmDcbt;Yaeji;indie;61
+spotify:artist:3ZJxEmjYZd5VOqZ8o3aXiL;ABRA;indie;54
+spotify:artist:31CtLHmSL7Oa7TPU9YyBEu;Aeroplane;edm;45
+spotify:artist:1QdjL34EAib5zndNoqA2ly;Mike G;hip hop;44
+spotify:artist:1k78cRCnTM3T7EhvhVeaKX;Xilent;step;44
+spotify:artist:31HjiqargV4NAw4GZqUale;Ace Hood;rap;64
+spotify:artist:2JwyRtuXf2l6sTnSnGVIa1;Farid Bang;hip hop;71
+spotify:artist:5vfmmb3UHpuQWJ55JP9slk;Geko;hip hop;64
+spotify:artist:2GaynEwi8XdZuZ372KKsgc;Creek Boyz;hip hop;50
+spotify:artist:736HGQRGr9rjG4VmmSpkz8;Naaz;pop;53
+spotify:artist:5FstVfk3PrX8URfpjUjqcp;Ruby Prophet;pop;49
+spotify:artist:5bepW5vcdRzheNc0F8lHJ5;Esperanza Spalding;jazz;52
+spotify:artist:7g1UCyeUY5EDPlLLIu16ra;Richard Earnshaw;house;32
+spotify:artist:6loBF9iQdE11WSX29fNKqY;Howard Jones;rock;57
+spotify:artist:6MWKObDGDrI3jN3Q3d9dpD;Jorge Blanco;pop;55
+spotify:artist:4wLAjfeqAsV66AocWNcowA;Buju Banton;rock;60
+spotify:artist:2BvzbqWWwLN11XGBYgDZzx;Terror Squad;hip hop;53
+spotify:artist:6p2442ymrT9lZEuCZJdYcH;Ivy Queen;rap;63
+spotify:artist:4tzxCsdhR0IIUNyzwrag4C;Rappin' 4-Tay;rap;44
+spotify:artist:347ZYa3M1wIhZ3j8Awnd19;Jen Jis;house;37
+spotify:artist:6kkdxR4fLeX1bz8Ujruh3a;Koelle;house;43
+spotify:artist:0uRdK8gy7fXJGRywrlmPM7;GoldFish;jazz;62
+spotify:artist:5Nz0G9zAjZVmIgqtGfHham;Point Blank;rock;34
+spotify:artist:5ynvmGwc83ZoRx2EIWHXLX;The Beatnuts;rap;50
+spotify:artist:3L7JnVovGbYSUmRyqhXMYO;Fairlane;edm;49
+spotify:artist:46sXMHr9eHJYyO6uu0Jdeh;Lowsunday;indie;20
+spotify:artist:4nMuaJ4kBLDJCRBizNESI6;Caspa;step;40
+spotify:artist:6cdmYp8fPQYDIU1l1Sqt8X;Rasmus Faber;jazz;50
+spotify:artist:52lBOxCxbJg0ttXEW9CQpW;Louis Prima;jazz;62
+spotify:artist:2kGBy2WHvF0VdZyqiVCkDT;Father John Misty;rock;65
+spotify:artist:7bcbShaqKdcyjnmv4Ix8j6;St. Vincent;rock;63
+spotify:artist:4d3yvTptO48nOYTPBcPFZC;Eve;rap;68
+spotify:artist:1JfH8gevkDviqs50A5NO0L;Chuck D;hip hop;47
+spotify:artist:6O2zJ0tId7g07yzHtX0yap;Mobb Deep;rap;69
+spotify:artist:1l7ZsJRRS8wlW3WfJfPfNS;Christina Aguilera;pop;79
+spotify:artist:2CxtLXJMW2AbYPyQShuDT1;Ball Greezy;hip hop;56
+spotify:artist:69FykkhiqpzqeSNYRxc8BI;Tiara Thomas;indie;47
+spotify:artist:5Uqwc43sDJPCpyKoDGgKEK;Andrea Roma;tech;25
+spotify:artist:3jNkaOXasoc7RsxdchvEVq;Chase & Status;house;66
+spotify:artist:4qnTdOhzCAvoRf8PObGr1h;Arnaud Rebotini;indie;37
+spotify:artist:1KMdIxzX1BddGfY2H8aGvn;Lenachka;indie;39
+spotify:artist:0p7L2MImTqtWEAlMN9qHYx;Jay Cosmic;step;44
+spotify:artist:1zldhBBFA4tMRkzeLcmlbU;Merciless;metal;22
+spotify:artist:3o8BMojuQONFOJ0cJ0qOEc;Diskord;rap;45
+spotify:artist:548YUkLaLzti0BLqaWpn1W;Ephwurd;step;50
+spotify:artist:1YYJxpOXYk1z1WtqdeLMkn;Habstrakt;step;57
+spotify:artist:4VbviNI348014tlDIHdL33;Wish I Was;edm;34
+spotify:artist:6VSMAVF00xwG8Adoqnbqy6;Rat City;pop;60
+spotify:artist:2DuJi13MWHjRHrqRUwk8vH;Knife Party;step;63
+spotify:artist:4BKyei61gtyDFxlKhcvBJJ;Celldweller;metal;58
+spotify:artist:3WhvgoOwfFRjuHf7zgCptu;Koda;step;44
+spotify:artist:5nd7jnne7zbsV2J5jBKNOY;Gammer;step;58
+spotify:artist:0l6M2vf0lC8N42B4spXUSn;THIEVES;rap;40
+spotify:artist:23ostNBoB9z6GMXLtHdg7y;Prismo;step;60
+spotify:artist:3zuevuwyBq4MiQzPB3nvW2;Rogue;step;50
+spotify:artist:34krK3AW06onvB0x7mfkkN;Terravita;step;42
+spotify:artist:4fv1OFJywZ7DHCz3mVQQ45;Grabbitz;step;51
+spotify:artist:5FKchcZpQOkqFvXBj1aCvb;Excision;step;65
+spotify:artist:6lO3fSdhsdpeOcrbqAJsRU;Aero Chord;step;59
+spotify:artist:3Fe5n1HNeOPaDPwcPIx6Qc;SPLITBREED;step;46
+spotify:artist:28Ky95tmlHktB96DBUoB0g;Tristam;step;60
+spotify:artist:6M4RgHnN6u48xM8rbTintP;Clemens;hip hop;40
+spotify:artist:1HT9k1ZSUL9IczSstOAgWJ;Roger Sanchez;house;49
+spotify:artist:1cxgK9QATO1nSr8GqcjoA1;SAMAHTA;rap;40
+spotify:artist:7DyqaNyG0Y8bztrBWBdKo1;ZOOTAH;indie;38
+spotify:artist:2tXUcirItGbDNvLpApQT3z;Megalodon;step;40
+spotify:artist:1VZ1TofaV3kj90QJSdg6NG;Ivan Dorn;rock;43
+spotify:artist:0ycHhPwPvoaO4VGzmMnXGq;Zomboy;step;62
+spotify:artist:2XBuvmyzhH85j6sqv1fV3l;Robosonic;tech;56
+spotify:artist:3A8XSMPreJlCBlpSZVHU5J;Shlomi Aber;tech;32
+spotify:artist:4jGpKAmwvU263l0tUh4xKU;Joris Voorn;tech;57
+spotify:artist:3HVMTISidSkv0TNur6fmkj;Ursula Rucker;jazz;46
+spotify:artist:5ySYeIhqg4Rfs5tjteVMz3;Blondfire;indie;35
+spotify:artist:450o9jw6AtiQlQkHCdH6Ru;Funkadelic;jazz;56
+spotify:artist:3Y10boYzeuFCJ4Qgp53w6o;Scissor Sisters;rock;63
+spotify:artist:3h7XMA9EEJ3tnBmHl3cUHe;Fawks;house;24
+spotify:artist:25DnzR3jtrD8StkyyRCvHR;Roman Messer;house;45
+spotify:artist:3YpKkSd9uluZRtrh2oUsVn;The Spacies;edm;44
+spotify:artist:0wsdUS0EJ7zHgti2nxTVWR;Patrick Stump;pop;46
+spotify:artist:7z8fkGpUDt6eb6fyysRTH9;Skan;rock;59
+spotify:artist:0cCOt2mcZfspvOOhY8TdmD;Sunny Lax;edm;46
+spotify:artist:2NEH0kiGTt9DVyve0DiOv8;Dankann;house;45
+spotify:artist:1PfZZ0T77xIrd0cIgP3QWl;Joonas Hahmo;edm;27
+spotify:artist:7luLRXGBygBN8vUO8T9uHf;Davey Asprey;house;47
+spotify:artist:6H2JQ8igAAa5UBr2u496mb;John O'Callaghan;edm;50
+spotify:artist:5PbiZVQoB8efOeulRH96gl;Bagga Bownz;metal;21
+spotify:artist:0XZkeCAlpiO5qcIlAJzZaA;Omnia;house;51
+spotify:artist:2Npo4Cfm48M2uKlvxiXMic;Oliver Smith;edm;48
+spotify:artist:4axjIl2fLU1xnDsC1NB3yI;Soundprank;house;35
+spotify:artist:4zqERoiO42cNiA3pPDWnvN;Sean Tyas;house;44
+spotify:artist:1QIzi1uCFSY6Mhb9ZlJX6r;Will Dragen;house;17
+spotify:artist:1QNQUlR0uLW0ovRuVRjYir;Josef Bamba;pop;40
+spotify:artist:4mHngi71hWNKTRuyl3W9FY;Osunlade;house;42
+spotify:artist:2HcwFjNelS49kFbfvMxQYw;Robbie Williams;pop;73
+spotify:artist:422RLznpwUa5FsQgnTlgUH;Great Good Fine Ok;indie;57
+spotify:artist:5btwhOxrid8w7heRfBEnJ1;IZECOLD;step;45
+spotify:artist:64UHlFDUkT8Hx3RCtDUieN;Dope D.O.D.;hip hop;52
+spotify:artist:6kn7LhH5siatL0X1kefy0r;BOXINBOX;rap;49
+spotify:artist:4QDvXnbmw1znkqkK1119Fc;RKCB;indie;62
+spotify:artist:67tgMwUfnmqzYsNAtnP6YJ;Groove Armada;jazz;61
+spotify:artist:0qzzGu8qpbXYpzgV52wOFT;Bibio;indie;60
+spotify:artist:4B1CeNsCcLfOvRBJ34UUSX;M-Phazes;hip hop;51
+spotify:artist:6pSsE5y0uJMwYj83KrPyf9;Dawn Richard;indie;41
+spotify:artist:5CE2IfdYZEQGIDsfiRm8SI;DJ Shadow;jazz;63
+spotify:artist:2XyVj5qsjy87RPXk1O5if3;Alrima;rap;53
+spotify:artist:0Pv1zES3REvZ4OuYrW2tGc;Duvchi;indie;38
+spotify:artist:7xlK7aPJVv1bFCMzgNJg2S;Savage Skulls;tech;24
+spotify:artist:6Yae9Ia1nq6JLLojBzwN1r;HNNY;jazz;54
+spotify:artist:4N874uPqBka1QiCvnCVOtr;Phoebe Ryan;indie;64
+spotify:artist:3Nk2T3DZVBvPRO5BBSrklE;Mark Farina;house;41
+spotify:artist:5HFtQOrPHOFptM1WF9xPuK;Ronnie Wood;rock;36
+spotify:artist:5tDjiBYUsTqzd0RkTZxK7u;Ben Böhmer;tech;55
+spotify:artist:5X3rdmEE2Mif6kFQkb2PxB;Neelix;tech;59
+spotify:artist:0R1oucmcvm5lCfJ1HtmP8Q;Rex Mundi;metal;7
+spotify:artist:74cxRdZkD9ormqPBf76coi;David Berkeley;indie;28
+spotify:artist:25fXoLpROrtnNtQ1ifr8oN;Agnelli & Nelson;house;35
+spotify:artist:7A6k2eqQT5MnGj6Mq9vwcS;T99;tech;33
+spotify:artist:6sq1yF0OZEWA4xoXVKW1L9;Alejandro Fernandez;pop;78
+spotify:artist:2pNmBGiwrxFlIn8GgQHEw7;Aerofeel5;step;8
+spotify:artist:2HNNSjjaK20NZ9PDZ2EMwU;I:Cube;jazz;39
+spotify:artist:7KAEbGpGL1xL4iLwQG4a7b;Tom Glass;tech;18
+spotify:artist:5nH6M4pshUDojKtZhriHPa;Paul Keeley;house;25
+spotify:artist:5L2RBjmMKezVGIImlpznWz;Luca Donzelli;tech;21
+spotify:artist:2s9PP9CdhU2iMHLarwuybS;DaGeneral;tech;8
+spotify:artist:6UFFThDuFiQixrwog0FecB;Sasha Carassi;tech;21
+spotify:artist:5YMAvlBA9L3q159OPgtv9B;Jurek Przezdziecki;tech;3
+spotify:artist:1Aca2hjrysxBfTQmThUR4z;Tomomi Ukumori;jazz;17
+spotify:artist:4uRYpUQZrNrY5t8tAv3XrD;NERO;step;59
+spotify:artist:1JfTH34xTo9O5wzyks9ZT9;John Puzzle;pop;10
+spotify:artist:1bAdBYcsDdsbqmWbAE7qKR;JJ;indie;40
+spotify:artist:5RmH6wwaFBZ29ZGdkrju51;Dan Sieg;house;18
+spotify:artist:7vIEeWvX3ZQz0wIzSWIwdq;Jay Shepheard;tech;24
+spotify:artist:3hwmrS8MSceZwnZYvZFf97;Move D;tech;40
+spotify:artist:50Lr1puweM1hFsF1LpIZLM;WhoMadeWho;indie;54
+spotify:artist:4xcn3zUUGf03kOIJueXHVp;Kasper Bjørke;pop;41
+spotify:artist:2rHW9XpYMGsHj7BmAOSmr9;Noir;tech;47
+spotify:artist:07OQnOSosaMwXDVH06Fgvh;Miroslav Vrlik;house;30
+spotify:artist:5x2u5vpKBhviWQlni8VM8L;Justin OH;step;39
+spotify:artist:7CO6M2cT1lbumazmOjKnxF;Anden;house;38
+spotify:artist:4AT7XlLBevgZIiKvZQ83ye;Trivecta;step;55
+spotify:artist:7KIJwcYLtYSSNmP8KzmA9V;Blood Groove & Kikis;house;31
+spotify:artist:7LGTLaYyZs5r51R6QHCN4K;Roddy Reynaert;house;17
+spotify:artist:6gnvHPFDgWP4LiES4X0Ajz;Afterlife;jazz;47
+spotify:artist:2BWfZGPtsjRlRp7JTDqI45;Boy George;rock;46
+spotify:artist:0roLSs1WqlurDniSZ1pttN;Mory Kanté;jazz;38
+spotify:artist:4sHVpn4IyEWlfSEGER04yi;Muska;rock;25
+spotify:artist:3ahVFszO9ucf8JQLCNQeYA;Anggun;rock;48
+spotify:artist:5g3uG8zZZANGT6YOssgjfC;Lenka;pop;54
+spotify:artist:5rr0CMtvn1p9Be8ICfkTc3;Charming Horses;edm;57
+spotify:artist:4nZBJZHavxcUzGeK2k6fL9;Kolombo;edm;46
+spotify:artist:2IYxik8temxqFO55T2BmjB;Lea Luna;step;18
+spotify:artist:5mdTuNl23tON1WlsVbvD18;Sound Quelle;house;47
+spotify:artist:7CsSec3NzFx2UipwF1APhu;Galavant;edm;40
+spotify:artist:26PDtWYDJ1KD0brukKsJH1;Jennifer Paige;pop;52
+spotify:artist:2e4G04F77jxVuDYo44TCSm;Loco;pop;64
+spotify:artist:6FbDoZnMBTdhhhLuJBOOqP;Jewel;rock;61
+spotify:artist:3aEyfaWZ9zrpMC8azlL1ee;Dream Dance Alliance;house;32
+spotify:artist:4Sa0Izacj6A61uSlU6jp4o;Danito & Athina;house;34
+spotify:artist:7FhUEuhPe1odyNav1iHfvd;DJ Glen;edm;36
+spotify:artist:64kN9EkSTHYhda2FupL0KI;Blawan;house;35
+spotify:artist:3nViOFa3kZW8OMSNOzwr98;Queen Naija;pop;68
+spotify:artist:4IprNlQiJZUUJhDl0fL2SL;Quando Rondo;rap;72
+spotify:artist:6mctsJBrfcWvWH7S8h716D;Moelogo;pop;52
+spotify:artist:0BEI7i5sgUuivcfwXLzFmM;Serj Tankian;metal;60
+spotify:artist:5AbLpsnTQVNB3OEadYiVrK;Yxng Bane;hip hop;70
+spotify:artist:5eIbEEQnDM8yuDVB0bimSP;RL Grime;step;68
+spotify:artist:3E4UsjXgFv2GdwshMkkJze;Kartell;house;47
+spotify:artist:6ZLTlhejhndI4Rh53vYhrY;Ozzy Osbourne;metal;79
+spotify:artist:2xDZ8qyyE2Ti4wL1Ob1T7V;Hanne Mjøen;pop;52
+spotify:artist:0SbB21iyaied8yNOIpSstn;Toad;rock;16
+spotify:artist:3wcj11K77LjEY1PkEazffa;Burna Boy;hip hop;80
+spotify:artist:1zV9UjTUevjp5VUddqIUUn;Mr Hudson;indie;55
+spotify:artist:7r8xR0LmnaAM623MmRDn1V;Max Frost;rock;57
+spotify:artist:4E69riquObrTmBTVuF1b7B;graves;step;57
+spotify:artist:5fENlrINIVP0gJOtKxvORt;Call Me Karizma;rap;62
+spotify:artist:0fY32zOZQBIUFh6rDMfbMt;Saint;metal;22
+spotify:artist:5DCdWXQ0QHQYlok4KK97em;GuiltyBeatz;pop;44
+spotify:artist:0rQ0WMIrOt6MzfiGaNWh3D;LOUDPVCK;step;44
+spotify:artist:4DTbdShHu2RPYEEMUp2XWV;Anjulie;pop;59
+spotify:artist:3ubv8WIA649ar6dwEH6ATm;Exmag;rock;39
+spotify:artist:0x7hPChCgZ370MWTGNwnIr;Miguel;pop;34
+spotify:artist:0rlS0SzVFk8BoiAW0fGBbN;Salaam Remi;hip hop;65
+spotify:artist:5aYyPjAsLj7UzANzdupwnS;Good Charlotte;metal;69
+spotify:artist:3xt6L79UoW9czPDK8fc1k8;Mr. Serv-On;rap;32
+spotify:artist:2Zxy5LwBatI5kw4uponwHQ;Riot Ten;step;54
+spotify:artist:46aYPGlJtmYZe8Q7Ijkyk5;Massivedrum;house;29
+spotify:artist:2kgCV0fFS0wt3q6M5B39nH;Tito Rojas;jazz;55
+spotify:artist:6GRC8segVAr34gm6pjfSoQ;Fanny Lu;pop;59
+spotify:artist:7npqy7rgdX2D3yfVyWExKo;Angel Y Khriz;hip hop;63
+spotify:artist:23ymPLjbtAMzTJS2qRtQ8Z;Sébastien Tellier;indie;53
+spotify:artist:44E0JWHttieVoD6vUHWoa2;Dj Spinna;jazz;38
+spotify:artist:1XqqyIQYMonHgllb1uysL3;Surkin;tech;27
+spotify:artist:0DySs3P0kz6aEHI1NwErI9;Lucrezia Bori;classical;3
+spotify:artist:6kjCrVbejP0Aw6otiMaxNt;Giuseppe Di Stefano;classical;42
+spotify:artist:4JvrSYK3Gq0qEKvdZyOWhj;Jerome Hines;classical;18
+spotify:artist:5Vdfj3R5juqDpqeTYfVveV;Beverly Sills;classical;24
+spotify:artist:1YuknfkSYTTbolRpwZBOv4;George Gershwin;classical;53
+spotify:artist:0Kekt6CKSo0m5mivKcoH51;Sergei Rachmaninoff;classical;61
+spotify:artist:3Z5fRknMBBNfCw6pkgR9S8;Pietro Mascagni;classical;50
+spotify:artist:5iAhVgz6P8Nylxijb0C65v;Claudio Monteverdi;classical;47
+spotify:artist:7KCdHGc5N4oYz2Ekg3CRdb;Sam F;edm;40
+spotify:artist:583EYzsIVCz1HsEKZbuJ1k;Junior Jack;tech;49
+spotify:artist:0Q9slhIaEgg190iG8udYIV;Philip George;house;58
+spotify:artist:4qK6oQkDJ2tGgSrjhyTuLL;Maiday;indie;37
+spotify:artist:7eni2OLgBBuhk1dLo3a8y1;Rico Tubbs;house;16
+spotify:artist:4B9TNYzqv1ClVclflVWMic;Mirko Di Florio;tech;28
+spotify:artist:2aKEdECy2QF7iuhaQ0unks;Jokers Of The Scene;indie;18
+spotify:artist:0EpiUsw9qhnjn8kRDWOzih;Laura Jones;house;15
+spotify:artist:14H15rElxdGClICOZXEYHP;MoStack;hip hop;70
+spotify:artist:6Z4JcgqrqgysyHIPRtDIHo;Baby Rose;indie;57
+spotify:artist:6GEykX11lQqp92UVOQQCC7;DJ Premier;jazz;56
+spotify:artist:2r09Inibex3C4ZNTUVSG3m;Keith Sweat;pop;60
+spotify:artist:2tcoLkA9Hexz70Kuc1NTUl;Gradur;rap;59
+spotify:artist:1ntQKIMIgESKpKoNXVBvQg;Kaaris;rap;68
+spotify:artist:0iQ58hVu6gA9nuuCgbnvOn;Tyree Cooper;house;25
+spotify:artist:2wkoKEfS6dXwThbyTnZWFU;Mau y Ricky;pop;82
+spotify:artist:1noWnd8QFQD9VLxWEeo4Zf;Don Miguelo;rap;56
+spotify:artist:77aLk6J8ofnVxa1eXK9jiU;Matisse;pop;70
+spotify:artist:6wIbmO0mcpIyQ6CFXIJmIy;Soltan;step;36
+spotify:artist:1Tvhj4mF2pvvAT1InLbRKs;Kim English;house;39
+spotify:artist:3ZPRZDAAuBrvx1tsIjeFxh;Pat Lok;house;45
+spotify:artist:3w6zswp5THsSKYLICUbDTZ;Gabrielle Aplin;indie;68
+spotify:artist:4bvWFV51SAEocM22uiDOza;Pretty Sister;pop;46
+spotify:artist:4JkX37Ibpb0cJq2IItah0y;Sian;tech;28
+spotify:artist:7lx2Fs8ftKfXxOVPVHtbwK;James Teej;tech;33
+spotify:artist:24Sxfn1uAoJmuR9N72drt9;Mike Candys;house;59
+spotify:artist:2bfx0bw0uVRyfikzS3h5Mg;Animal Trainer;tech;42
+spotify:artist:7H55rcKCfwqkyDFH9wpKM6;Christina Perri;rock;74
+spotify:artist:3MpCfIDDtcYqxvODmYLx0f;David May;house;29
+spotify:artist:5sKvgmG84C0bIMWeS2SRPr;Brasstracks;pop;53
+spotify:artist:1kwGj7uDO5WXVXtQLvGJr0;Just A Gent;step;58
+spotify:artist:147jymD5t0TCXW0DbaXry0;Wave Racer;indie;44
+spotify:artist:2V5PoybhNfFnNEs0NKv44L;Joyce Muniz;indie;34
+spotify:artist:6AwGe2F49hD3ANXvmOwqQB;Black Loops;tech;45
+spotify:artist:1Ss1H8LWQfqNUzDfjpDTzL;C.Z.;rap;16
+spotify:artist:00jACgDWIBdPM4eH8nORwz;Reva DeVito;hip hop;47
+spotify:artist:1jSXmAYCaHoqt7C6t0VZdK;Starkey;step;35
+spotify:artist:2LIk90788K0zvyj2JJVwkJ;Jack Harlow;hip hop;63
+spotify:artist:0zdn1nNmOZXHZ9K28FvcFp;Matthew Herbert;house;38
+spotify:artist:6VsCebtxRP7GhBxmOnb2oA;Hood Rich;house;25
+spotify:artist:7oJtghmTMHdQ49zN8uLSob;Harrison Brome;indie;46
+spotify:artist:24icoQNJSEWNu3XvqKBR68;Jordan Rakei;jazz;65
+spotify:artist:3BeQqzKdlARoOd6y30kCO2;Pete Rock;jazz;60
+spotify:artist:1rpgRF0ch5otJ2Cu7NwwX4;Prince Po;hip hop;17
+spotify:artist:6UnvX7Zx85VNjOpLdaq49W;Havoc;hip hop;40
+spotify:artist:34EP7KEpOjXcM2TCat1ISk;Wu-Tang Clan;rap;72
+spotify:artist:1Eie0tY91rpi7Y0jtIOXzI;Wingtip;edm;52
+spotify:artist:5wJBdwIAg6nZoCaWbFhc1r;Naeto C;hip hop;31
+spotify:artist:3l4RyQwQ0kHZ9Q9cQbRNMr;Arif;indie;60
+spotify:artist:59NO6KX7wQCG7jGdtH1NtL;Raheem DeVaughn;pop;54
+spotify:artist:4VqBNQRr0nDN0trNUOn0co;WRLD;step;50
+spotify:artist:2qcAIycColPoLfaz16NvbI;Zak Downtown;indie;45
+spotify:artist:6D1PUSzHf2Z4jTFIdhjJoO;Enamour;house;43
+spotify:artist:3NYySx3H1V7zHemD9hmsQv;PAX;rock;46
+spotify:artist:6H6VFCKcJLUKANeWVr5mYU;Luca M;tech;26
+spotify:artist:1DMe8CPYvAS6WM8MlpezTc;Lexlay;tech;30
+spotify:artist:7gG6LkU3pCSQmCIPR4aSBt;The Juan Maclean;indie;40
+spotify:artist:02AM03mK2DQTiDr33b87f6;Cloud 9;tech;24
+spotify:artist:0FBRY66KVaAiddGVefikLB;Weiss (UK);edm;64
+spotify:artist:5jXXWjxhK31kxCk8fk1Asn;Ruben Mandolini;tech;30
+spotify:artist:4C32Xft2VHzeKP3aR0UaNY;Konrad (Italy);tech;14
+spotify:artist:6bwVMbawBh7irt3ppQe4A3;Konstantin Yoodza;step;13
+spotify:artist:7c59lOg1veety7jD83d31w;Pete Josef;jazz;41
+spotify:artist:7hNmGpSTmHpCWP377St0bk;Funk D;house;28
+spotify:artist:2gjPMizz2O02yDhxg9HcQ2;Jacob Henry;house;21
+spotify:artist:16mF4YXC1sZZWNjZoJoxd2;Vitodito;house;28
+spotify:artist:68WwJXWrpo1yVOOIZjLSeT;Evalyn;indie;52
+spotify:artist:4Pgbnc1zRPquMFR4iPH3MN;Phaxe;edm;54
+spotify:artist:7dtX3ykcuyVmts2HQnWgSP;Kompany;step;52
+spotify:artist:27ZrKWqTYzWEiVxD9QY8IW;Lilac Jeans;house;14
+spotify:artist:5E1HWPplEsztsh2zh1c9mH;Atjazz;jazz;38
+spotify:artist:4WZgFtQLzzmubwRq44JOjT;Kintar;house;20
+spotify:artist:1AOfb8a350IDERGTB6Inkm;Thodoris Triantafillou;house;28
+spotify:artist:3eDT9fwXKuHWFvgZaaYC5v;Sunidhi Chauhan;pop;64
+spotify:artist:5WRwjmInsOIA279Rbe0dcP;Eitan Reiter;tech;36
+spotify:artist:32fCH0Z7B8ydcz40ybZdqg;Andreas Henneberg;tech;37
+spotify:artist:4VNKVCluxMcjqwYJm3yuQ3;Nickodemus;jazz;51
+spotify:artist:1jlgrY17tSO5zhmlS7zWXE;Luis Bondio;house;19
+spotify:artist:1ChWj9EwLoK9J0hnHMgKHj;Lira;jazz;30
+spotify:artist:1b3F5FI7TX4IWTNA4P1kWp;Hugh Masekela;jazz;45
+spotify:artist:6CVlmc2tvzoff758MgvAT5;Professor;house;36
+spotify:artist:7JCiEoZpn0yghisiVNvl4X;Reel People;jazz;38
+spotify:artist:3c4CdXd79YgiuRN04QiUau;Skena;tech;9
+spotify:artist:7KWmHJx8szSRWhzUHluYC5;Arnold Jarvis;house;26
+spotify:artist:5BwMgvRwlq61SmknvsVIQj;Rubén Blades;jazz;63
+spotify:artist:3JkLFcTej6tdwZoQT6Nx4B;Seth Troxler;tech;36
+spotify:artist:4QQV60vtp1G3XReD6dWgNz;Shaun Escoffery;jazz;36
+spotify:artist:6fxyWrfmjcbj5d12gXeiNV;Denzel Curry;rap;77
+spotify:artist:7nJNuftnqwrFGFs3ZRRe0u;MEMBA;edm;54
+spotify:artist:60ELFqAhwT7jwRKJV6Rgfx;Mazde;house;54
+spotify:artist:7iJ1u9JKtY7pIixJ21AeFK;I Am Karate;indie;31
+spotify:artist:5K2zBqDpxHKvH2N4sGjJMV;Wallaby;edm;50
+spotify:artist:4OgJEiWtBVLA3iJg1EbfC5;Pixel Fist;step;9
+spotify:artist:0NFGsd1qpvYHXtkOvFSKd9;Ajapai;step;22
+spotify:artist:4mEiNo3As7ZRupf3sKvhdC;Lissat & Voltaxx;tech;35
+spotify:artist:4UgUo3TEctzDcXJguyWIcs;Festa Bros;house;12
+spotify:artist:2fOvE1l01YyORhYzwoaLCM;Miraa May;indie;52
+spotify:artist:1gydLLHpbmraVz1LVZCW83;pronouncedyea;edm;47
+spotify:artist:4AcHt3JxKy59IX7JNNlZn4;Fitz and The Tantrums;rock;69
+spotify:artist:0KEExJc1NKwmzJxQHbbkts;Leah Culver;edm;56
+spotify:artist:0eoAQPA85UyOqUJGwt3cvm;Amnesys;tech;25
+spotify:artist:7jEzKif1MJE7wODAuWBNOR;Fabricio Pecanha;edm;27
+spotify:artist:7LwKTvbDzU6JihyDRdzohC;Laura;rock;36
+spotify:artist:1ViM1nVwtJmRm5CSXyU0U9;Rey Pirin;hip hop;36
+spotify:artist:2OHKEe204spO7G7NcbeO2o;Ñejo;hip hop;70
+spotify:artist:41zyWmhhxxcTSTy5Yul7hC;Luis Miranda;tech;10
+spotify:artist:0vomb9Zaob10lPzxBcIiNb;Linney;indie;35
+spotify:artist:3yfAt1o2PVrVe3jTe8o5Ln;Broz Rodriguez;edm;39
+spotify:artist:39TK4RM8bEzWa1BoBxsSko;Juanito;pop;21
+spotify:artist:7slfeZO9LsJbWgpkIoXBUJ;Ricky Martin;pop;77
+spotify:artist:2arQ0lfcNGLrJOHoJksWOw;Ivi Adamou;pop;38
+spotify:artist:03r4iKL2g2442PT9n2UKsx;Beastie Boys;rock;71
+spotify:artist:3qyg72RGnGdF521zMU02u9;Northlane;metal;61
+spotify:artist:6rYc6WImdfhd7wtSFp1jb3;Agora;metal;25
+spotify:artist:3xnDktxhudJR2Wv3HZDQ9W;John Digweed;tech;40
+spotify:artist:0lmpSjaPzC8ChqeFQ6Z3VS;Hervé;house;29
+spotify:artist:3lO6qgXLmmuCWJ0egWs5gM;Highbloo;tech;7
+spotify:artist:1kHUaFTAX3cs3kH4cXvqpm;Danny Fontana;tech;16
+spotify:artist:3nOp9kU7OluZlOGCdqWqS3;Jos & Eli;tech;32
+spotify:artist:2LpqyWMwfJfzA0MWYONoLw;Matias Chilano;house;22
+spotify:artist:4W0g0RkPE0pCtstjwYkFKP;Dani Sbert;tech;16
+spotify:artist:38Mu5kOhoYunFujNr0TKLA;Soul Minority;tech;22
+spotify:artist:4BmzfIGmnyaxu1REssIgPp;Steve Rachmad;tech;18
+spotify:artist:4XQhU3S4TyPkiPIsSu2hmA;Diggy Dex;rock;58
+spotify:artist:7C4sUpWGlTy7IANjruj02I;Peter Gabriel;rock;66
+spotify:artist:5LeiVcEnsZcwc133TUhJNW;Belinda;pop;71
+spotify:artist:2cy1zPcrFcXAJTP0APWewL;Gente De Zona;hip hop;74
+spotify:artist:08Cb5OwPZ7SrS19MNYaHqz;Buxxi;pop;47
+spotify:artist:1E2ZsvpZKP4qMPNARv36W5;Gocho;hip hop;38
+spotify:artist:6tYuW96NhiYI3sAxEDsqK4;Pasabordo;pop;55
+spotify:artist:0BrPKSAeplwezYR1T2DF9s;Yung Berg;rap;44
+spotify:artist:3sMYEBy0CZFxedcnm9i9hf;Frankie J;pop;63
+spotify:artist:2Xn8Gef5Hv2QOWYlXs2gTb;Deep Dive Corp.;jazz;40
+spotify:artist:5iksmHDN2qZQcgFfXqIXtT;Robert Wyatt;rock;41
+spotify:artist:24fwyM31DLDqYOPvQ0jFFr;Barbara Bonney;classical;42
+spotify:artist:1wFoE1RwBMWoWkXcFrCgsx;Josylvio;hip hop;73
+spotify:artist:57RYqNhEvaNiafuP1X73GS;Equalz;hip hop;64
+spotify:artist:0rQ69yrbz7CeUmXUn1beIj;Esko;hip hop;56
+spotify:artist:5AvkVClT6JuPL4LFy7liYN;Gers Pardoel;rock;58
+spotify:artist:5sUrlPAHlS9NEirDB8SEbF;Alejandro Sanz;rock;79
+spotify:artist:2e4nwiX8ZCU09LGLOpeqTH;Laura Pausini;pop;73
+spotify:artist:0rnKlPis7AQgoIe2NEVWa5;Technasia;tech;42
+spotify:artist:4aKZ8rfdsQeR7YSskFu9V3;Hot Natured;house;50
+spotify:artist:7K0uU6DuPffcB8LUL7ck3w;Henry D;hip hop;16
+spotify:artist:6y1vggOkn0ekeAgqG7AZKS;Xerxes;pop;42
+spotify:artist:0UmBaQJflaHddKtf1lrA6F;Dennis Brown;rock;55
+spotify:artist:0WCfu8x76QX3CjVgiE3Hn2;DRS;hip hop;49
+spotify:artist:5D56dZmhE9DgT01XixdHiD;Lagum;edm;73
+spotify:artist:5KNcfWhCoFy2FkNznVMY2Z;Dimo;tech;32
+spotify:artist:5LSnGBSqhwvGjz1LWtEoLA;Pete Griffiths;tech;8
+spotify:artist:2nQKUeZeleLGNsJj6WLUXN;Oliver Nelson;jazz;45
+spotify:artist:4UReeTRXK8iKWTmTWMRU60;Pirupa;tech;30
+spotify:artist:2xPL0AoIt8vBFrog4MIp0L;Mladen Tomic;tech;18
+spotify:artist:1ZdPbovVpFHo1Uy1FmjklW;Markantonio;tech;24
+spotify:artist:2XWr3TCJUE6XBKd6BQrAc1;Roberto Capuano;tech;37
+spotify:artist:4EnzLaY6syM2lVhfMRolW2;E-Life;hip hop;46
+spotify:artist:4jqCEZncUglElRJKDYCVIq;Bar9;step;27
+spotify:artist:7DhO8EWzhqmHTF4XPkBXmh;D.I.M.;tech;17
+spotify:artist:0zDAOGeSCGT1qmn2baS3Lj;MineSweepa;step;33
+spotify:artist:4aBx7mA6lUOVhEsjokZrXb;MUST DIE!;step;48
+spotify:artist:5xLSa7l4IV1gsQfhAMvl0U;B.B. King;jazz;64
+spotify:artist:1JsTlF91kOnZRmyPj3io7B;Flood;metal;47
+spotify:artist:1eYhYunlNJlDoQhtYBvPsi;Ray Charles;jazz;68
+spotify:artist:45IiwcsxzJekHh16hSgAQ8;Skitz;hip hop;18
+spotify:artist:2tEg1Ert1kIHmm55ayDUy7;Jakes;step;40
+spotify:artist:4KO4We001yFoZBa9plWM5V;Gridlok;step;27
+spotify:artist:4l5yM8Xgy138mX8enj6mud;Counterstrike;step;34
+spotify:artist:1018anDqhwhKxaTd9ZeVtU;The Frim;step;40
+spotify:artist:3GFFvgdcY4wSg6dbtIc3pH;Grimm;metal;43
+spotify:artist:4N2vLdALVmxGAQJpx82u2q;Nocturnal;metal;14
+spotify:artist:6SJnjpekgnONgNtxKeMP8m;Dodge & Fuski;step;48
+spotify:artist:2bUYKdepfgDuZiRQJdvooU;Odd Chap;jazz;42
+spotify:artist:16L1SS4OancaZUTu3qWqHb;Jay Dee;hip hop;32
+spotify:artist:6QXqARXg4hZ3oAUitm2gU0;Julian Wassermann;tech;42
+spotify:artist:4rzz8dn9JHNUzcIRU1Ou0V;Lewis Delay;tech;11
+spotify:artist:1N6JVU67os1i6f2sJwfPUh;Luca Lento;jazz;26
+spotify:artist:5MnOk0in1mpSgGM7AVmEgh;DJ Miller;step;13
+spotify:artist:6JpZEemWmunccsrHXFUOgi;Tony Allen;jazz;48
+spotify:artist:2mlm79pwkJHGq8zYp6uIGu;Jabee;indie;17
+spotify:artist:4RV0poOKGzij1Xe9dsO57h;Bishop Lamont;rap;34
+spotify:artist:5LhTec3c7dcqBvpLRWbMcf;Madlib;hip hop;68
+spotify:artist:0eVyjRhzZKke2KFYTcDkeu;The Alchemist;rap;59
+spotify:artist:5cM1PvItlR21WUyBnsdMcn;Robert Glasper;jazz;53
+spotify:artist:2vyB0oUbcyIaoBVgUwhxZL;John Robinson;jazz;31
+spotify:artist:1pt1kuxHmYnFaAQS6t3q6k;Rapper Big Pooh;hip hop;37
+spotify:artist:2TKC2gVUNBUAlFqfLUoaj0;Phoelix;indie;55
+spotify:artist:48C2RLG6w7o4jAJjCJKZM8;Shigeto;jazz;46
+spotify:artist:7tjfWNXhMsf8G6WosK2hy2;Fat Ray;hip hop;14
+spotify:artist:1Z8ODXyhEBi3WynYw0Rya6;De La Soul;jazz;61
+spotify:artist:5Rzqmz1zAszembFHGZQuAt;Souls Of Mischief;jazz;57
+spotify:artist:6NFWb2y6S7PH2yvs5xbO2y;Sticky Fingaz;hip hop;43
+spotify:artist:5X0V59ipZnbvnubW0rQVri;Roc Marciano;hip hop;50
+spotify:artist:5lUJxGxTTkeRC5xAouxIe4;Cali Agents;jazz;25
+spotify:artist:5Matrg5du62bXwer29cU5T;Benny The Butcher;hip hop;57
+spotify:artist:7wGizTRCLYwsLnTuCBbJ6t;Propaganda;rap;42
+spotify:artist:2IEnjZsVDEPKUTxNinyqba;Tiffany Gouché;indie;53
+spotify:artist:4LEiUm1SRbFMgfqnQTwUbQ;Bon Iver;indie;80
+spotify:artist:1SUFqa4aXxvMrGdOnqiMmR;Rhymefest;rap;37
+spotify:artist:1SUu1Bi7ev9HbOzyVC77qD;Kool Savas;hip hop;69
+spotify:artist:6vmRl3VuXiU126ssJufx2Z;Jon Cutler;jazz;34
+spotify:artist:4jPpDbD1ERO3zjBon97ECM;Niko Schwind;house;40
+spotify:artist:4YfnJEbTz8QLD5FusYFwV6;Triumph;metal;50
+spotify:artist:6kLrAuoxxTyDRY3k9Je0bp;Landikhan;house;31
+spotify:artist:3qoTlYFOahAlAh9ee3qnbs;HOSH;tech;46
+spotify:artist:1FPV5yJGV2urezFSaXrYDV;Kevin Yost;jazz;31
+spotify:artist:3dLR1D8DmhiviUMHuClkJy;Dapayk;tech;12
+spotify:artist:3dHW5v3wOdq67nyjMT9TCN;Zombie Disco Squad;tech;17
+spotify:artist:70paW48PtCtUjtndElrjrL;Tia Ray;jazz;53
+spotify:artist:5eOyDcFvvdc7D7BD6gCdsi;Direct;step;50
+spotify:artist:24PJqH46WhB0pUB7NlsFna;Knoc-Turn'al;rap;53
+spotify:artist:2FiRV4AeJUGaW98BhDIAKI;Tha Alkaholiks;rap;39
+spotify:artist:06EfEcjc0vdvI6VNL0soIO;Rameses B;step;51
+spotify:artist:0WoUrE9CjbROyWCMMdGMqu;Gabe;edm;49
+spotify:artist:19nFjml2GjS4LuL4NrDa7D;Ed Motta;jazz;51
+spotify:artist:4as3khXWaPjfkFdCA0JWMo;Jesse;pop;60
+spotify:artist:5cfALf5vLhWIo7VeIh4fQX;xKore;step;39
+spotify:artist:21J3YJTyq1biE3SvSNjzuf;Capleton;rock;58
+spotify:artist:3QTDHixorJelOLxoxcjqGx;SiR;indie;72
+spotify:artist:1SKIyebAAhyPaaFp4x1Vp0;More Giraffes;indie;47
+spotify:artist:3z8SEnYy9gIRNrSVNJieXx;Oolacile;step;41
+spotify:artist:7f7uTajAqbXruaAKcdaOZr;Somnium Sound;step;35
+spotify:artist:6XfmJzVFd0H79vyC7TQl4j;Helicopter Showdown;step;22
+spotify:artist:58MEqEE2029jp6KTWTt1hO;Gentlemens Club;step;41
+spotify:artist:2fNr4ldujwq97v1jWeqs8K;Kai Wachi;step;48
+spotify:artist:7cTaYwNT1P49mASgKULKab;MOONZz;edm;47
+spotify:artist:6g878dtAhjegRHVe5X0ALf;Bryce Fox;rock;61
+spotify:artist:45lcbTsX07JWzmTIjcdyBz;Matroda;step;56
+spotify:artist:1apmSb6aeHZyr9zUsy1Z9q;VaVa;hip hop;46
+spotify:artist:4rkmaLySgI7sl9cKfJ3tT8;Gappy Ranks;rock;46
+spotify:artist:0eKtd8T6YEkhuD9He27Jns;Jerrih;hip hop;15
+spotify:artist:0cmWgDlu9CwTgxPhf403hb;Bonobo;jazz;68
+spotify:artist:1ZHk8dteZz6Vi2HFp4hGoM;Abra Cadabra;hip hop;58
+spotify:artist:5GvMLzUp6tMBpaCbr903RN;Broederliefde;hip hop;66
+spotify:artist:7KcUsF4LyLu0SIhmwvNSmM;Zefanio;hip hop;58
+spotify:artist:6UCQYrcJ6wab6gnQ89OJFh;Headie One;hip hop;72
+spotify:artist:3vioxUBsBBi7pmXx4KG5Vg;SXTEEN;hip hop;56
+spotify:artist:7DUTsWY3RBd64vh8UtgtYA;Lacrim;rap;70
+spotify:artist:25oLRSUjJk4YHNUsQXk7Ut;GRiZ;jazz;64
+spotify:artist:4hRL2QmahOYxXNmNKtG1AI;Valee;rap;62
+spotify:artist:3BveROYfEF9Tggv7GtCyak;Rose Gold;indie;48
+spotify:artist:6gGH04KywUUbUWc6tmXTpM;B-RED;rock;29
+spotify:artist:1Ukd2DtqpLxxy0q8yV7dfy;Lotto Savage;rap;30
+spotify:artist:5lwGLTTHEe9o4eUmiS8M5l;ManMan Savage;rap;42
+spotify:artist:1QRj3hoop9Mv5VvHQkwPEp;Olivia O'Brien;indie;77
+spotify:artist:1X6dfPmF8f5C5EW3WIGfvm;SJUR;edm;56
+spotify:artist:4cZvsAtZm91PBC0tXlDrP0;Dirty Palm;step;55
+spotify:artist:1PH7LtTLFyoZUEa7B64pws;Lyapis Trubetskoy;rock;40
+spotify:artist:6CbRhUKsqHspXea7P9XcTx;Coldfeet;jazz;15
+spotify:artist:65OtBLtkrifQrdTlKI90IR;Elijah Blake;indie;52
+spotify:artist:1S9WGrK7SZfXXQtHBYzDle;Sammy Adams;indie;57
+spotify:artist:2cFrymmkijnjDg9SS92EPM;blackbear;pop;83
+spotify:artist:3rxIQc9kWT6Ueg4BhnOwRK;Quincy Jones;jazz;58
+spotify:artist:2QOP6zKx1d0gGEtuuXOvJ3;Nick Grant;hip hop;39
+spotify:artist:2D7RkvtKKb6E5UmbjQM1Jd;Georges Bizet;classical;56
+spotify:artist:7v2z0RVM92iwQx7p7vF7ov;Kazushi Ono;classical;17
+spotify:artist:69a1b61a56mJlx8iAUMBsY;Kurt Weill;classical;37
+spotify:artist:3DUHqp1EQvqsbodW3qKDH9;Lazy Bear;edm;53
+spotify:artist:0vZAzVAFQL1gKLBPfnXMaS;Jack The Smoker;hip hop;63
+spotify:artist:7JFinw4LobpCUjapyKvsjo;Sam Wills;indie;48
+spotify:artist:3W9UldYu0xJcaOAw2SUTDI;Panama;indie;60
+spotify:artist:7cmuxPnXRJxwuYDHfbD8Eu;Zé Felipe;pop;67
+spotify:artist:72T7x96EAqN2UWvAgobYfv;Sizzla;rock;60
+spotify:artist:7vXDAI8JwjW531ouMGbfcp;TINI;pop;75
+spotify:artist:3RNrq3jvMZxD9ZyoOZbQOD;Korn;metal;76
+spotify:artist:6B8ilmtLLtTBgUc0TpwGbd;Jesse Jones;hip hop;19
+spotify:artist:6E8pGolyeInc820eQQak70;Shade Sheist;rap;40
+spotify:artist:2ZvrvbQNrHKwjT7qfGFFUW;Herbie Hancock;jazz;59
+spotify:artist:5HlXA01kcjssYDT7EoqUJF;Skunk Anansie;rock;57
+spotify:artist:4WgFczZafuUFBvsCuSK44C;DJ Hell;tech;33
+spotify:artist:1JPy5PsJtkhftfdr6saN2i;Bassnectar;step;65
+spotify:artist:6B9SjvZNSQZkeJDH17oBSO;Current Value;step;37
+spotify:artist:4e6pQ61gYReORJoXcrQH1Z;Alix Perez;edm;47
+spotify:artist:6xyaria4AcxjRuJZLkWvMW;Guru;hip hop;53
+spotify:artist:4F8JGeO6bJO7Z309mxHlP0;Dack Janiels;step;33
+spotify:artist:6GFAZnwXhNER0WS76WMpS4;Bob Andy;rock;42
+spotify:artist:7gHscNMDI8FF8pcgrV8eIn;Matt Maeson;rock;67
+spotify:artist:1VW5tZ9pmSb2rG0GmSELwW;Jonathan Davis;metal;52
+spotify:artist:2VYQTNDsvvKN9wmU5W7xpj;Marilyn Manson;metal;73
+spotify:artist:6bJUzb3mLEYCkTAp7eNJgO;Information Society;rock;48
+spotify:artist:0h9oPMP5nFi3mY0lK4cSuy;Leroy Sibbles;rock;40
+spotify:artist:4lgrPvofm0IT605L9OrOTN;Jengi;pop;42
+spotify:artist:6CG5i0dfyqWIOrqFY60ooq;Promo;tech;35
+spotify:artist:2h7fN6KOZVgWQ39sYK0jJm;German Brigante;tech;39
+spotify:artist:2z2TRvloJt4EfUNQp9rHAi;Alonzo;rap;68
+spotify:artist:6xrmcNsyd2topX3r1suglc;Dr. Beriz;rap;42
+spotify:artist:2eLrVxwm6t4QeaORq5w8VW;Grigory Leps;rock;51
+spotify:artist:5ITJs06INM9JWxK5hROEj3;Alessandro Safina;pop;48
+spotify:artist:1T6vbaRgf4pRhvPbdxadat;Joe Maker;tech;15
+spotify:artist:2V431yZGG08uroH2CZAgur;Sarah De Warren;indie;44
+spotify:artist:6aaMZ3fcfLv4tEbmY7bjRM;Isaiah Rashad;rap;67
+spotify:artist:1R4jDezcLcFxrJ9PHNrbG0;DaBoii;rap;52
+spotify:artist:0BfxMYdkqRuwPXsSwEf5RE;Slimmy B;rap;52
+spotify:artist:3rWaFjgOi5mjQfllMfN3VI;Lil Goofy;rap;33
+spotify:artist:7nwUJBm0HE4ZxD3f5cy5ok;Aretha Franklin;jazz;74
+spotify:artist:6PAt558ZEZl0DmdXlnjMgD;Eric Clapton;rock;75
+spotify:artist:6R9Mv0bgGE4Tqxna1q5Mrj;Roy Ayers;jazz;54
+spotify:artist:7E2ioKxoxI2J94tUkIx6As;Alex Isley;indie;45
+spotify:artist:0MGQZNEMaEICyku3cSDrnJ;Arturo Sandoval;jazz;48
+spotify:artist:01aC2ikO4Xgb2LUpf9JfKp;Gary Clark Jr.;rock;65
+spotify:artist:3IstlZaHyUP9SONpulb4SM;Chris Webby;indie;67
+spotify:artist:3nlHsNqwCSvT988ZfSW1Yh;Ronan Keating;rock;66
+spotify:artist:2WInxWtfee6mRhUQUmIRAH;Strick;rap;40
+spotify:artist:1s2VYzJ4Z4vFnp2yLYaLQe;Larry League;rap;37
+spotify:artist:58e1DU63g4ro3Ei0Nv0ieV;Scrilla;rap;32
+spotify:artist:0qPUDOVD0aYR2lmCilnscs;Junior Reid;rock;45
+spotify:artist:7x6piCyJR9YpMWhTRyHRvJ;Level;metal;38
+spotify:artist:7vMpNua6oKT52WWHNUJ1No;Jonn Hart;pop;48
+spotify:artist:6PtYbQCjHSaDyggoP3ZD7e;C-Ride;hip hop;20
+spotify:artist:0ndMofuAPmTktjONZv20JL;Yukmouth;rap;39
+spotify:artist:4JG781pl96pL2h0AoERgOA;Keyon Harrold;jazz;44
+spotify:artist:01nVIuD8YZsnFH6x6Cc9rX;Large Professor;jazz;50
+spotify:artist:5Lt1YtQ7PK7ANlfAM9vqVj;Juggy D;pop;46
+spotify:artist:5Qi4Bb7a8C0a00NZcA77L0;D12;rap;66
+spotify:artist:1LmsXfZSt1nutb8OCvt00G;Petra;metal;47
+spotify:artist:7ydcRbgt0yM9etADb1Ackp;Jimmy Jones;rock;43
+spotify:artist:0Bz2xkvNjb0Csvp7NR4nI0;DJ Funky;rap;15
+spotify:artist:6xs3t4VrfszbO3YJg2wLPa;Fred Durst;metal;30
+spotify:artist:72u1MuW2szmiTMIIy8A0Jm;DZ;step;28
+spotify:artist:6I3M904Y9IwgDjrQ9pANiB;Kenny G;jazz;65
+spotify:artist:2ueoLVCXQ948OfhVvAy3Nn;Perfume Genius;rock;58
+spotify:artist:1v3tdpIdBSW14rHUfiEVOv;Lauren Alaina;rock;67
+spotify:artist:6AUl0ykLLpvTktob97x9hO;Tee Grizzley;rap;77
+spotify:artist:1A96iePIMNFBjLrjXEl718;Emma Louise;indie;57
+spotify:artist:198itnIfOerunuIbXqrXr3;The Glitz;tech;24
+spotify:artist:3hEgzEeaZ0hb3UXx1U1JRR;Demrick;indie;52
+spotify:artist:6aEQsH3DcqRL3b3iEZcj3J;Kenny Greene;rap;18
+spotify:artist:7uWSNqvFk0TnPO9zKbzLI5;Chingo Bling;rap;43
+spotify:artist:0jslZSHX4gukh5miuzDJPj;Yung Redd;rap;31
+spotify:artist:4l0PmbNvFq3m5JaUuAPbcB;Caparezza;hip hop;60
+spotify:artist:4lXqyfnO42fw7mPGF5ZXjR;Vacca;hip hop;54
+spotify:artist:2xIJg09fPM9z97qcEzF1Do;Frost;rap;34
+spotify:artist:4oLZx5FplbgfM8DEe9U8LB;Camp Lo;jazz;52
+spotify:artist:2hsun1GbceH62Hhcj7cp2V;Bridget Kelly;indie;35
+spotify:artist:6y80I9YZi4DOpbaSUlL725;Shlohmo;indie;57
+spotify:artist:6DIUUnQRMBTkigLlsAxblR;D33J;hip hop;52
+spotify:artist:6K4qT7qjaR6q5SqwQ1oA3o;Yami Bolo;rock;39
+spotify:artist:6tckTqHFpOOsDHRLPr8yEs;Big Omeezy;rap;8
+spotify:artist:2CgysNw5B7rFNRtRjQbPZ9;Ryan Hemsworth;indie;46
+spotify:artist:5M6D2PqxdnZMVMCb1jNOTp;Chasing Grace;indie;51
+spotify:artist:0Vw76uk7P8yVtTClWyOhac;HONNE;indie;73
+spotify:artist:2uE66NiUti6Wpz90SD4eam;Fred Wesley;jazz;49
+spotify:artist:7kVSO9W0cZoyKBEG5o3E9h;Richard Dorfmeister;jazz;32
+spotify:artist:7G9ZUoEjbi5Z2bR5w60S0h;Moka Only;jazz;37
+spotify:artist:6PyeXqjH8OMGnt1IOhWgrQ;Malcolm Anthony;hip hop;29
+spotify:artist:3NKVm2Jedcf6ibJr6pMUVx;Jayda G;house;40
+spotify:artist:0AAR54Jo4FnVByHHh3BAjw;Fourward;step;35
+spotify:artist:60YJi3abieLZxGxwtBv7Jh;Monika;indie;38
+spotify:artist:1YKFD3qeH0TeGJcvVRDSJT;Strip Steve;tech;17
+spotify:artist:5RBdF1pJSLF3ugc2Y2PoB8;Savant;step;50
+spotify:artist:776kt3qreglj3s4GHSfgVg;Gregers;pop;32
+spotify:artist:1qgm9fSb4hCM7fi4qRXyPM;Grotesque;metal;19
+spotify:artist:1WlxlG9IzXsq9MkneOPkxc;Rob Gasser;step;48
+spotify:artist:2qc41rNTtdLK0tV3mJn2Pm;Ryan Adams;rock;61
+spotify:artist:0rC9usSqKXHNjWQO2RmGLB;Rich Kid Shawty;rap;8
+spotify:artist:5rQKf15bWRcUaTex4uWxsi;Dj Smurf;tech;11
+spotify:artist:0Maq4Nk8ZM6keGZjTCXGIH;Ye Ali;indie;43
+spotify:artist:2gCsNOpiBaMNh20jQ5prf0;Buddy Guy;rock;56
+spotify:artist:6evKD5JWJON3qPBJtUEmtY;G-Unit;rap;63
+spotify:artist:7dOBabd5O4CvKrg4iriHTM;Kid Rock;metal;71
+spotify:artist:6E2xn3BMpTfFaJtaJ6AHBO;Wacko;metal;14
+spotify:artist:7IBheQbrrR0LDE5vSicwiY;Weird Sounding Dude;edm;5
+spotify:artist:2l6Z31DakUv5Gl9yQPbLEl;Foxx;rap;48
+spotify:artist:41o2A93SPxIUxsy5HQjvul;Passi;hip hop;48
+spotify:artist:7yGQgQiiKpg2k00JXf8hJk;Carlos Santana;jazz;57
+spotify:artist:2f9ZiYA2ic1r1voObUimdd;Grace Jones;rock;57
+spotify:artist:6gto7HVNhu4ARE3P3g8Y5Y;Kollegah;hip hop;71
+spotify:artist:5y9wg9qkGBl0n9v9RzaPKu;Capo;hip hop;72
+spotify:artist:2cJ4ytkNhoJDlMJzLwrSE2;Platinum Doug;house;47
+spotify:artist:1OQa8VMULlbmbFmDcdfBZj;Irina Rimes;pop;56
+spotify:artist:2eHu2a3osPU7tSMnCw5cgQ;Maurice Brown;jazz;26
+spotify:artist:1xY7Vvgywewx0f9rSAjlgC;Tennan;tech;13
+spotify:artist:18gG21ZrYo2Iq6jeobmdRj;Fabio Neural;tech;28
+spotify:artist:2AsCNMhgUuqhs3Sx9Ko5Vq;Jinco;edm;49
+spotify:artist:5pTAtfO5NRMgj3zsT721WO;Jackal;rap;41
+spotify:artist:5Jhhsm26nMbGu8FNOvN3Gk;Jordan Peak;house;8
+spotify:artist:2STVYmc2T02GlvvWZl7umj;Victor Wooten;jazz;45
+spotify:artist:4Xi6LSfFqv26XgP9NKN26U;AJ Tracey;hip hop;76
+spotify:artist:5m2sKBa2fJAm4P2MWfopum;Diane Birch;pop;37
+spotify:artist:6Ur6METz02CC9zcJWDFicC;M.O;house;58
+spotify:artist:3FEd0qHPFOgcpfw7bCXB4x;Zubin Mehta;classical;60
+spotify:artist:5yxyJsFanEAuwSM5kOuZKc;London Symphony Orchestra;classical;73
+spotify:artist:2wOqMjp9TyABvtHdOSOTUS;Ludwig van Beethoven;classical;73
+spotify:artist:5tTsrGPwQRWUsHR2Xf7Ke9;Natalie Cole;jazz;65
+spotify:artist:3SK3gLBgy1jRuA4VnLlcs8;Renée Fleming;classical;50
+spotify:artist:4hdiwtmc6OEFFxpSlwwmby;Myung-Whun Chung;classical;46
+spotify:artist:3uw6GzeL10NfFrcikMo9Na;Cecilia Bartoli;classical;49
+spotify:artist:4IAWVxo2fpTBPn6k7GZ3eY;Francis Poulenc;classical;46
+spotify:artist:1EtE0iSY6iFlN9L9c53ETy;Michel Legrand;jazz;47
+spotify:artist:5zCaQxjl110XTrm4LQ1CxY;Herbert von Karajan;classical;67
+spotify:artist:35pZsti1RSA5Zv98jAm8kX;Orpheus Chamber Orchestra;classical;54
+spotify:artist:5wTAi7QkpP6kp8a54lmTOq;Johannes Brahms;classical;63
+spotify:artist:2HqNckz4bPVT37fWkhugTZ;Royal Concertgebouw Orchestra;classical;54
+spotify:artist:2KftmGt9sk1yLjsAoloC3M;Zucchero;rock;62
+spotify:artist:65EXuYHVoehCKqp0kOS6px;Parov Stelar;jazz;66
+spotify:artist:0eyU8FDZOOlay1MxO2ze4E;Tony Rebel;rock;40
+spotify:artist:5FcXaC6DLXy2s4HFGqERWU;Malik Mustache;edm;41
+spotify:artist:063wYkWkHrq5L5YWdrqjEt;Victor Lou;edm;53
+spotify:artist:3of9b8iUxyXtfnwwahfUNx;Antdot;edm;37
+spotify:artist:5VNMclLseLzRnVhvkrqdpn;Loski;hip hop;57
+spotify:artist:7Gsu15RkjjdKhMecdRpk9x;Art Department;tech;35
+spotify:artist:6fNmOWQzfOVyHLQ2UqUQew;Eva Cassidy;jazz;60
+spotify:artist:6TES5guUhmINHD91LUrfJI;Tavo;jazz;23
+spotify:artist:0kJO65h553i1iGsZutBuqz;Adnan Sami;pop;49
+spotify:artist:61if35zz1W11GejEkxTLEQ;Benny Dayal;pop;61
+spotify:artist:09NnhcnFy9QIWWG0bocK4k;Wafa;tech;20
+spotify:artist:4KKdboxGVMOjuidtoCxe5m;Effy;pop;26
+spotify:artist:7hm0Ngouir56yhbzXu9yRH;Keith;pop;34
+spotify:artist:3kZkH9E7vcaguHvBqUugIr;Adam Bozzetto;house;0
+spotify:artist:4M2H1fDQR5ygAi7MMOVxAA;The Whip;indie;33
+spotify:artist:3huof3P8bH0AJzMvy9kwv2;Baby Ranks;hip hop;35
+spotify:artist:2E4lzxgBnCEqLawsXeRKWp;Tomcraft;tech;40
+spotify:artist:0nKiNlJFtcGhZXZlNkOstJ;Masters of Ceremony;tech;28
+spotify:artist:1ovLf87ytwpNoA4prvV8wt;The Viper;tech;42
+spotify:artist:6j8GXOmXESx4CKWRdIYtCB;David Harks;pop;49
+spotify:artist:3wGeUMOLBlQ0mlVaHaQ0dX;Dotstripe;house;18
+spotify:artist:3gacryguGmpmCvgPGt2CBI;New York Philharmonic;classical;59
+spotify:artist:5zfaMrd5q4szVTxVYWuoDV;Mark O'Connor;jazz;38
+spotify:artist:0qlhpgr87PEG89Jd5iRpxe;John Rutter;classical;52
+spotify:artist:4DAmH51BfQpej5UEP0dZ3u;Hubert Parry;classical;43
+spotify:artist:7fvx6pdccpIicgEbNbBdrm;Richard van Allan;classical;29
+spotify:artist:50QMTmQ1XZm05UovMrGL4o;Robert Lloyd;classical;27
+spotify:artist:11vpC3XmFb1LIP2ugl96lZ;New Philharmonia Orchestra;classical;50
+spotify:artist:0KFS74u9OFu7tDyCajs9cF;Paul Tortelier;classical;28
+spotify:artist:7KkUirCiJZhgRN3NbgG98L;Ottorino Respighi;classical;39
+spotify:artist:2wk53EBcWhriq03tl5nDYV;Reinhold Glière;classical;27
+spotify:artist:088fpww3Ae4U9cMZv5O6m8;Amilcare Ponchielli;classical;39
+spotify:artist:5M4s5CWEtDgi5S1mIBDerz;Elizabeth Gale;classical;6
+spotify:artist:2q0JrITHR6gBplwIAS2D7m;Alfreda Hodgson;classical;20
+spotify:artist:0nJvyjVTb8sAULPYyA1bqU;Aaron Copland;classical;51
+spotify:artist:3riIYGDJMkjK1OenmRUMrW;Shardad Rohani;classical;21
+spotify:artist:2MlNW5tkeBPchMOrPdcNnd;Susan Bullock;classical;18
+spotify:artist:7jwtuGXYddkJm7TSoJuoT2;Michael Collins;classical;30
+spotify:artist:79l0vgZYtIB6bDjQaTj2ix;Helen Watts;classical;31
+spotify:artist:5BcbyYRgvvhfVGmCJSjHlT;Manuel de Falla;classical;42
+spotify:artist:0dgnEVOVp49OiWDNUVlPVX;Daniel Smith;classical;21
+spotify:artist:7pTcS325aaWWsWMEpXCyma;Gordon Jacob;classical;19
+spotify:artist:5U827e4jbYz6EjtN0fIDt9;Arnold Schoenberg;classical;42
+spotify:artist:3RUGMx9yxNg3lltGmkTB2I;Piero Cappuccilli;classical;33
+spotify:artist:21h8E3aA7a9mjcUHbLpjxf;Emil Gilels;classical;40
+spotify:artist:2XKXuLdjmigGQx286z07ZZ;Lazar Berman;classical;26
+spotify:artist:6OZmjtuzO1FCcPQ6kdPF5x;Garrick Ohlsson;classical;43
+spotify:artist:4Ws5hSoABAwvGJ4LhHwHgq;Vladimir Horowitz;classical;50
+spotify:artist:3G5zQYaRH9y6ruE4QnoITP;Stephen Hough;classical;44
+spotify:artist:22jDZXnu8F1BNH63ujGkT3;Nelson Freire;classical;48
+spotify:artist:2nvKpWcP8etYTq4JrRiUiy;Cliff Richard;rock;55
+spotify:artist:3nj3MfJCFFoKiRkAOW1R8c;Evynne Hollens;pop;49
+spotify:artist:68mTMM7rhA3YDSZX1VwuLy;Mark Padmore;classical;38
+spotify:artist:6CQGTULxb6vmvz9Cdb2Pph;Forbes Robinson;classical;13
+spotify:artist:2Yx6iuxQCLQ69mfliLeLh6;Catherine Wyn-Rogers;classical;30
+spotify:artist:6LCES9Lhr6Zs3IEE7IYjZA;Sheila Armstrong;classical;9
+spotify:artist:6zexiUWs4Fvtw13BQVh8rN;Gladys Ripley;classical;0
+spotify:artist:0eVHs7uW1alqTqZlRBP5Wr;Francis Grier;classical;16
+spotify:artist:5wNBW2yqGhv7lR3AvzD3JG;Simon Keenlyside;classical;32
+spotify:artist:3bhckpkRmz8mqONUceSutp;Gerald Albright;jazz;48
+spotify:artist:7nwrblOf59ulOiB6djwPVh;Dianne Reeves;jazz;43
+spotify:artist:3EB0uKE2lGw6BB1UFJrONl;George Duke;jazz;52
+spotify:artist:320TrJub4arztwXRm7kqVO;Dr. John;jazz;57
+spotify:artist:0bouHpX4JiuPnIfP2jFxRi;Khatia Buniatishvili;classical;55
+spotify:artist:5c2dloAaXR2qRbIVh2C0jD;Christian Thielemann;classical;42
+spotify:artist:10viy7E6l3QXaWVz1PuGGP;Juilliard String Quartet;classical;29
+spotify:artist:5xip0PcPYnJDMPLDjCsVsW;Daniel Behle;classical;36
+spotify:artist:3jp4zawfeVYVpSzO2Yujbv;Fritz Wunderlich;classical;36
+spotify:artist:6uyl3CpPwYlCSqNOYq6rAQ;Benjamin Appl;classical;15
+spotify:artist:3OSBVyZIt7WXGzu3faHa9r;Kurt Streit;classical;17
+spotify:artist:4EVzwPLCAaxmpFNbHlJ7W5;Ruth Ziesak;classical;25
+spotify:artist:33m8hHvylEDLzWwVkCgnPg;Bernard Greenhouse;classical;18
+spotify:artist:5pAFKhoqlYPpCSiTOjh9Bz;Beaux Arts Trio;classical;37
+spotify:artist:7GqzUP7TApb2wPZ7pxlDeN;Theo Adam;classical;28
+spotify:artist:4XMFKAiKwRrsgsGhgImp32;Klaus Florian Vogt;classical;34
+spotify:artist:1LP6gYZMSGJNpso6MWoOWr;Kodály Quartet;classical;42
+spotify:artist:6lT95P6U6omdJemPv1BwLp;Alice Coote;classical;22
+spotify:artist:1NH50olttJ4Gz7fTQKW7vI;Hephzibah Menuhin;classical;3
+spotify:artist:0uRyoGMnJfoX8u1vDScXkk;Tom Krause;classical;32
+spotify:artist:1fo7wyhU0wmbIbknhGaBOi;Christian Tetzlaff;classical;38
+spotify:artist:00LY9cN1x8xfhdAa1YJiyw;Gould Piano Trio;classical;33
+spotify:artist:1Jgntox16Lhl0bFoRhV3Ar;Christa Ludwig;classical;35
+spotify:artist:2tFIElBQr2cl7crv8T30ZI;Aribert Reimann;classical;16
+spotify:artist:6ALhP2ILfgcSmpTefE4C3Q;Gil Shaham;classical;35
+spotify:artist:6x96fjhdTD0Ox0X60NTk3F;The Israel Piano Trio;classical;3
+spotify:artist:20IDzRi0wyLOh0Bj40v4Sj;Christophe Coin;classical;32
+spotify:artist:5FMLbvy0kbuHZEGtnAKE00;Christopher Herrick;classical;4
+spotify:artist:3w3zn0sPKHIDo9CRWnQLb5;Ira Malaniuk;classical;20
+spotify:artist:2iGaR4BMsuToxsuhcYNIpg;James Lancelot;classical;25
+spotify:artist:5Pj7u76MK9VDyzDiAyYPSL;Katia Labèque;classical;37
+spotify:artist:2HP6jqSSQ1Ln683rBOEjNe;Alan Opie;classical;26
+spotify:artist:1BrKLZxBikUgEn6XEVZmrp;William Bennett;classical;27
+spotify:artist:0BOKp33vfgc7PUaNem18gT;Ralph Kirshbaum;classical;43
+spotify:artist:1sWPJ06Ed62WqGtrPUY4fa;Giuseppe Taddei;classical;27
+spotify:artist:7oFvKLdVtXPcuZdfrWpcyj;Hugo Alfvén;classical;31
+spotify:artist:0ebni9QrrWMvEgH40nOWZQ;Johann Christian Bach;classical;35
+spotify:artist:2UL3ob989gucFstYnWl1Cy;Elisabeth Rethberg;classical;3
+spotify:artist:4EXCZdjgyKeOrYLVqO7Log;Regina Resnik;classical;20
+spotify:artist:6q6EXv5ybArXqifMdmTIig;Lionel Loueke;jazz;37
+spotify:artist:6uNjT2PKDfR7t48JKhajkh;Richie Sambora;metal;41
+spotify:artist:4tw2Lmn9tTPUv7Gy7mVPI4;Kenny Rogers;rock;68
+spotify:artist:1FE0rls8gfQT3laAeRYNgl;Loretta Lynn;rock;57
+spotify:artist:7dmeVSH4lJqxXU7C87dKIB;Tanya Tucker;rock;56
+spotify:artist:0vYQRW5LIDeYQOccTviQNX;Kris Kristofferson;rock;63
+spotify:artist:3Rj0tDHoX7C5NFq5DKIpHt;Stereolab;rock;56
+spotify:artist:4qjTbJHr1i0O0ViKgFgZqN;Da Lata;jazz;32
+spotify:artist:5XJDexmWFLWOkjOEjOVX3e;Eladio Carrion;rap;73
+spotify:artist:2t7vyRN71qtQT18frElAnV;Maikel Delacalle;rap;68
+spotify:artist:4upwdFMlZBmQ68jP9jPzjK;Gemitaiz;hip hop;76
+spotify:artist:65skAdklXLoOm2Klks0Hud;Goldy Boy;pop;36
+spotify:artist:5wUO3A6DT4tO5UDz21kE2Y;Neutro Shorty;hip hop;61
+spotify:artist:0kPA7qoAAkI8id1ARXhh5n;Martina La Peligrosa;pop;54
+spotify:artist:7zLcnirfgw1VEHHshuGcDR;Eddie Dee;hip hop;58
+spotify:artist:30N9JY1VoDikz8Czs2TKtT;Jesse Jagz;hip hop;30
+spotify:artist:6acbdy69rtlv8m9EW31MYl;Phyno;hip hop;49
+spotify:artist:5dehztX64sgpHfGE3ooDlg;Kenzie May;pop;37
+spotify:artist:6S5jf5noKu0JJjLLVUCZqP;Joker;step;43
+spotify:artist:2vnlhEYTh2K1O3NZE2ONiz;J:Kenzo;step;30
+spotify:artist:5HePAITZSCxQ0H9PEKZ5DH;Chezidek;rock;44
+spotify:artist:2QoOImOYDWU4i2DyQoLVAH;Team Salut;hip hop;46
+spotify:artist:2uNN342UyBqKSXSacWgvlD;Natural Black;rock;33
+spotify:artist:3ront3zvcdInux0rUVQLF2;Tur-G;hip hop;45
+spotify:artist:5XLBHWQv9JWQXlikVgA4zf;Splashfunk;tech;12
+spotify:artist:6XYOjW5wxf5V9hwAR58o4d;Auntie Flo;jazz;41
+spotify:artist:6EVyI0S0b1Ld2nm37m5x85;Raffaella Carrà;pop;49
+spotify:artist:2ew9JvyyuOGkhahuwdovDq;Secondcity;house;53
+spotify:artist:7eVY9a9LOOrgIwszKa8XUY;Can 7;jazz;33
+spotify:artist:6r1Xmz7YUD4z0VRUoGm8XN;Leon Russell;rock;51
+spotify:artist:319yZVtYM9MBGqmSQnMyY6;Carole King;rock;67
+spotify:artist:2zyz0VJqrDXeFDIyrfVXSo;Jerry Lee Lewis;rock;59
+spotify:artist:5rX1EodZfwxmW4fQX2Caot;Jonny Lang;rock;49
+spotify:artist:1m0B9ak05G0jqDY4ACLhQu;DOWN;metal;49
+spotify:artist:1aESCe7tDjXSVlNEYRT7hk;Khujo;hip hop;26
+spotify:artist:0phDemf1X7hH9HYltuOaGw;Vardan;metal;3
+spotify:artist:2wPsNCwhEGb0KvChZ5DD52;K. J. Yesudas;pop;47
+spotify:artist:6vvIQFcpGLIum7HYhYwNx0;Pandit Jasraj;classical;34
+spotify:artist:6DmKvvaXUkECvkUozzpuQb;Shankar;jazz;31
+spotify:artist:3cqeO3muWIW5uSmUDNCmyT;Rekha Bhardwaj;indie;51
+spotify:artist:7wiEsNZNjH2ncGOG2ix7ds;Manoj;pop;25
+spotify:artist:41BeeC5hYqvtGkM79RYvN4;Harini;pop;49
+spotify:artist:5a2WF7juQ5oilpZCqikRtP;Rahul Nambiar;pop;43
+spotify:artist:7zFlr6Y537SdALqy0Xfvth;Ranjith;pop;50
+spotify:artist:3C6fEluNfcYDBAy6nBQpdS;Vishnu;step;7
+spotify:artist:7JMBJmGMqw4H33HECyW4QP;Zack Knight;pop;61
+spotify:artist:3AmgGrYHXqgbmZ2yKoIVzO;Warpaint;rock;57
+spotify:artist:54ECAJjvSyZGTWUgyt5tqc;Peaking Lights;pop;35
+spotify:artist:0Vz0vgVrclNJlHBLrgjklY;Kenny Garrett;jazz;43
+spotify:artist:67zjOa1s3aBqLx9ffbranq;Bobmo;tech;13
+spotify:artist:2SrWifjYv7b5tR8EzEmn1x;Golden Features;indie;57
+spotify:artist:3xsLz1pGRgDfTozxS4RgGA;Balthazar & JackRock;tech;23
+spotify:artist:7gURutUeEed1hWmMVq8E0S;Mathias Kaden;tech;27
+spotify:artist:23soWSxxN1Sf800L55g7Sw;Russ Yallop;house;22
+spotify:artist:1stsCjH4vP2aRdIhkxdguc;Inxec;tech;16
+spotify:artist:4nJ3J7RwgYmMARNAVrFb06;The Blackbyrds;jazz;43
+spotify:artist:1n9yPqM0i14Ny5KLZ3QJfZ;Neil Shicoff;classical;26
+spotify:artist:7zkN3Pxr9xyVPcd5LdNKFd;Carol Vaness;classical;29
+spotify:artist:2Mi8xPOE8jSOZEeFjxVNdQ;Saito Kinen Orchestra;classical;27
+spotify:artist:3DEveX6KVzhPDqq2VRuN14;The Brand New Heavies;jazz;50
+spotify:artist:12BjfR9LIzpDecdcMGvu7f;Cuppy;pop;37
+spotify:artist:5szdY7KaSi7epwyffrbV8c;Poolside;indie;63
+spotify:artist:66Q0sKoITOwDGz49FOVlBa;Polakan;hip hop;29
+spotify:artist:1DYxZa4xMjf7wadwDgCgQm;Marty Obey;rap;37
+spotify:artist:6SaSgAC8GbmzRyCuhPtWdd;Nadine Sutherland;rock;40
+spotify:artist:0W8ZVf53GqJkTOPRWQaaBq;Chloé;tech;33
+spotify:artist:7fMr2Jp0r6RxfJhp46kW9C;Ernesto Ferreyra;tech;9
+spotify:artist:48lG9Do8JhbK2RxFTGpGlU;Safone;hip hop;38
+spotify:artist:70E0CLEf2H8hCo06gHJ7tu;Document One;step;43
+spotify:artist:7yk35uHNQclPXFGFoTU44w;The Pharcyde;jazz;62
+spotify:artist:1kMPdZQVdUhMDKDWOJM5iK;Tkay Maidza;hip hop;56
+spotify:artist:1cUNRt3Ha4lnnNvPTJAIa8;Scribe;rock;44
+spotify:artist:3cAisWS37sGCCtRgWfvrod;Diamond Platnumz;pop;59
+spotify:artist:4osVU3jyVz4gMMeyQr6ABg;Angel Dust;metal;27
+spotify:artist:1tPCPj6UWSQ3VSQ8xwZ4ZJ;Kevin Aviance;house;22
+spotify:artist:4GX9CqwqWtb76wuXwbXR6b;Doc Gyneco;rap;48
+spotify:artist:0kZLGuPPYMg9SBPPercyNC;Ponicz;step;22
+spotify:artist:3b7KMI96oGOeQEoXhe4iBK;Algo;step;25
+spotify:artist:5X42qWv2F0KBkvlWygmx9B;Rise At Night;step;21

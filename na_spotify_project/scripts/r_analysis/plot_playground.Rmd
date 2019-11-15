@@ -64,7 +64,8 @@ processFiles <- function(edge_filepath, node_filepath, my_graph){
 }
 
 g <- make_empty_graph()
-g <- processFiles("final_edge_data.txt", "final_node_data.txt", g)
+#g <- processFiles("final_edge_data.txt", "final_node_data.txt", g)
+g <- processFiles("pri_genre_edgelist.txt", "pri_genre_nodelist.txt", g)
 ```
 
 ## Plotting
@@ -92,5 +93,15 @@ font.size <- function(x,t=18) {
     0.01
   }
 }
+
+
+genre_color <- list("jazz" = "magenta", "step" = "black", "pop" = "blue")
+n_color <- function(x) {
+  
+}
+```
+
+```{r}
+V(net)$genre
 ```
 
