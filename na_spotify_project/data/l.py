@@ -6,7 +6,7 @@ import random
 
 G = nx.read_gpickle('spotify_data.pickle')
 
-genres_ = ['step', 'classical', 'elec', 'rock', 'edm', 'tech', 'indie', 'house', 'rap', 'hip hop', 'pop']
+genres_ = ['jazz', 'step', 'classical', 'elec', 'metal', 'rock', 'edm', 'tech', 'indie', 'house', 'rap', 'hip hop', 'pop']
 temp_set = set()
 remove_nodes = set()
 for node in G.nodes(data = True):
@@ -73,13 +73,16 @@ nodes_to_remove = all_nodes - nodes_to_keep
 G.remove_nodes_from(nodes_to_remove)
 plt.hist()
 
+
+genre_deg_dist = []
 # desgree dist by genre
 for key, value in genre_nodes_uri.items():
     # print(value)
     print(key ,(sum([a[1] for a in G.degree(value)])/len(value)))
+    genre_deg_dist.append((sum([a[1] for a in G.degree(value)])/len(value)))
     # print(key, len(value))
 
-genre_deg_dist =  [8.01, 5.60, 9.84, 4.00, 10.33, 6.80, 3.66, 6.60, 16.00, 7.20, 5.10]
+# genre_deg_dist =  [8.01, 5.60, 9.84, 4.00, 10.33, 6.80, 3.66, 6.60, 16.00, 7.20, 5.10]
 cols = ['#713535', '#D43A3A', '#D0A1A1', '#000000', '#454545', '#B91A8A', '#FF6293', '#008F1D', '#0DC3CA', '#00F2B6', '#008572', '#2E72E2']
 
 plt_data = list(zip(genres_, genre_deg_dist, cols))
@@ -115,16 +118,24 @@ plt.show()
 genre_nodes_uri = {g: [(n[0], G.degree(n[0])) for n in G.nodes(data=True) if n[1]['genres'][0] == g] for g in genres_}
 
 for g, n in genre_nodes_uri.items():
+    print()
     print(g)
+    k = 25
     n.sort(key=lambda x: x[1])
-    n = n[::-1][0:5]
-    print(n)
+    n = n[::-1][0:k]
+    # print(n)
+    print(sum([get_share_of_adj(nn[0]) for nn in n])/k)
+
 
 def get_share_of_adj(n):
     node_genres = nx.get_node_attributes(G,'genres')
     curr_genre = node_genres[n][0]
-    return len([node_genres[a][0] for a in G[n] if node_genres[a][0] == curr_genre])/len(G[n])
+    if len(G[n]) > 0:
+        return len([node_genres[a][0] for a in G[n] if node_genres[a][0] == curr_genre])/len(G[n])*100
+    else:
+        return 0.0
 
 
-node_genres["spotify:artist:5y2Xq6xcjJb2jVM54GHK3t"][0]
-G["spotify:artist:5y2Xq6xcjJb2jVM54GHK3t"]
+get_share_of_adj("spotify:artist:6NhiWVGtq25QmacOUbTXKf")
+
+
