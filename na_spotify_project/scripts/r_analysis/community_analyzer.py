@@ -1,8 +1,10 @@
 # imports
 import networkx as nx
 import numpy as np
+import matplotlib.pyplot as plt
 import collections, os
 from sklearn import metrics
+import pandas as pd
 
 # variables
 
@@ -35,12 +37,27 @@ def check_similarity(community_dict, pruned_graph):
     """
     group_list = []
     genre_list = []
+    pop_list = []
     for node in pruned_graph.nodes(data = True):
         if node[0].split(':')[2] in community_dict:
             genre_list.append(node[1]['genres'])
             group_list.append(community_dict[node[0].split(':')[2]])
-    #print(f"group list: {len(group_list)}")
-    #print(f"genre list: {len(genre_list)}")
+            pop_list.append(node[1]['popularity'])
+   # print(f"group list: {len(group_list)}")
+   # print(f"genre list: {len(genre_list)}")
+   # print(f"popularity list: {len(pop_list)}")
+
+    group_array = np.array(group_list)
+    genre_array = np.array(genre_list)
+    pop_array = np.array(pop_list)
+
+    pop_df = pd.DataFrame(data = {'popularity' :pop_array, 'group': group_array, 'genre': genre_array})
+    print(pop_df)
+
+    myFig = plt.figure(figsize = (12,6))
+    grouped = pop_df['popularity'].groupby(by = 'group')
+    grouped.boxplot()
+    myFig.savefig("pop_group.png")
 
     #print(metrics.normalized_mutual_info_score(np.array(group_list), np.array(genre_list)))
 
@@ -50,7 +67,7 @@ def check_similarity(community_dict, pruned_graph):
         for idx,current_id in enumerate(group_list):
             if group_id == current_id:
                 current_list.append(genre_list[idx])
-        print(collections.Counter(current_list))
+       # print(collections.Counter(current_list))
 
 
 def read_pickle_graph():
@@ -100,8 +117,9 @@ def prune_network(graph_object, min_degree = 1):
     return graph_object
 
 if __name__ == '__main__':
+    plt.style.use("ggplot")
     sp_graph = read_pickle_graph()
     pruned_graph = prune_network(sp_graph)
     print(len(pruned_graph.nodes()))
-    this_groups_dict = parse_groups(leading_eigen_file)
+    this_groups_dict = parse_groups(louvain_file)
     check_similarity(this_groups_dict, pruned_graph)
