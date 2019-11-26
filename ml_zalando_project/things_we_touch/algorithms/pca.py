@@ -1,4 +1,3 @@
-
 from mpl_toolkits.mplot3d import Axes3D
 import numpy as np
 import matplotlib.pyplot as plt
@@ -34,4 +33,12 @@ plt.show()
 
 # ---------------- LDA ----------------
 
+classes = [[np.array(ds[j]) for j in np.argwhere(labels == i)] for i in range(5)]
 
+means = [a for a in classes]
+
+len((np.mean(classes[0], axis=0))[0])
+
+Sw = None
+
+Sb = None
