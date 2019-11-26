@@ -4,8 +4,8 @@ from sklearn.model_selection import KFold
 
 ds = np.load("../../data/original_files/fashion_train.npy")
 
-labels = [x[-1] for x in ds]
 data = np.array([x[:-1] for x in ds])/255
+labels = [x[-1] for x in ds]
 
 cv = KFold(n_splits=10, random_state=42, shuffle=True)
 idx = 0
