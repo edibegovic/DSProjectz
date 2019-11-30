@@ -39,48 +39,26 @@ plt.show()
 # ---------------- LDA ----------------
 
 get_class = lambda i: np.take(ds, np.argwhere(labels == i), axis=0)
-classes = [get_class(i) for i in set(labels)] 
+mean = lambda c: np.mean(c, axis=0)
+prod = lambda x, m: np.outer((x-m), (x-m))
+get_si = lambda c: reduce(lambda mat, x: mat + prod(x, mean(c)), c, np.zeros((784, 784)))
 
-mean_class = lambda c: np.mean(c, axis=0)
+classes = np.array([get_class(i) for i in set(labels)])
 
-def get_si(c):
-    mean = mean_class(c)
-    prod = lambda x: np.outer((x-mean), (x-mean))
-    scat_mat = np.apply_along_axis(prod, 2, c)
-    return np.sum(scat_mat, axis=0)
-
-def get_si(c):
-    mean = mean_class(c)
-    prod = lambda x: np.outer((x-mean), (x-mean))
-    return reduce(lambda mat, x: mat + prod(x), c, np.zeros((784, 784)))
-
-
-Si = np.array([get_si(c) for c in classes])
-
-Si.shape
-
-Sw = np.sum(np.array(Si), axis=0)
-
-m = mean_class(ds)
-
-Sb = np.array([len(c)*np.outer((mean_class(c)-m), (mean_class(c)-m)) for c in classes])
-Sb = np.sum(Sb, axis=0)
-
+Sw = np.sum([get_si(c) for c in classes], axis=0)
+Sb = np.sum([len(c)*prod(mean(c), mean(ds)) for c in classes], axis=0)
 
 eig_vals, eig_vecs = np.linalg.eig(np.dot(np.linalg.inv(Sw), Sb))
-eig_vecs = eig_vecs.real
-eig_vals = eig_vals.real
 
-pairs = [(np.abs(eig_vals[i]), eig_vecs[:,i]) for i in range(len(eig_vals))]
-pairs = np.array(sorted(pairs, key=lambda x: x[0], reverse=True))
+# t = eig_vecs[:, eig_vals.argsort()[::-1]].T
+t = eig_vecs[:, eig_vals.argsort()[::-1]].T
 
-w_matrix = np.hstack((pairs[0][1].reshape(784,1), pairs[1][1].reshape(784,1), pairs[2][1].reshape(784,1))).real
-
-projection = np.dot(ds, w_matrix)
+# projection = np.dot(ds, t[:3, :].T.real)
+# projection = np.dot(ds, t[:3, :].T.real)
 
 fig = plt.figure()
 ax = Axes3D(fig)
-ax.scatter(projection[:,0], projection[:,1], projection[:,2], c = labels, cmap = 'rainbow')
+ax.scatter(projection[:,0], projection[:,1], projection[:,2], c = labels)
 
 # -------------------------------------
 
@@ -89,7 +67,7 @@ def showimg(imvec):
     plt.figure(figsize=(3,3))
     plt.imshow(imvec.reshape(28, 28), cmap="gray") 
 
-mean_class = lambda c: np.apply_along_axis(np.mean, 0, c)
+mean = lambda c: np.apply_along_axis(np.mean, 0, c)
 
 test = np.take(ds, np.argwhere(labels == 0), axis=0)
 showimg(test)
