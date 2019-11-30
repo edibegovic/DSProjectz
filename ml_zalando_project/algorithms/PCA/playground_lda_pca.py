@@ -4,9 +4,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 from functools import reduce
 
-na = lambda x: np.array(x)
-apa = lambda func, a, x: np.apply_along_axis(func, a, x)
-
 # importing data
 data = np.load("../../data/fashion_train.npy")
 ds = np.array([x[:-1] for x in data])/255
@@ -39,54 +36,26 @@ plt.show()
 # ---------------- LDA ----------------
 
 get_class = lambda i: np.take(ds, np.argwhere(labels == i), axis=0)
+classes = np.array([get_class(i) for i in set(labels)])
+
 mean = lambda c: np.mean(c, axis=0)
 prod = lambda x, m: np.outer((x-m), (x-m))
 get_si = lambda c: reduce(lambda mat, x: mat + prod(x, mean(c)), c, np.zeros((784, 784)))
 
-classes = np.array([get_class(i) for i in set(labels)])
+within_scat = np.sum([get_si(c) for c in classes], axis=0)
+between_scat = np.sum([len(c)*prod(mean(c), mean(ds)) for c in classes], axis=0)
 
-Sw = np.sum([get_si(c) for c in classes], axis=0)
-Sb = np.sum([len(c)*prod(mean(c), mean(ds)) for c in classes], axis=0)
+eig_vals, eig_vecs = np.linalg.eig(np.dot(np.linalg.inv(within_scat), between_scat))
+sorted_eig_vecs = eig_vecs[:, eig_vals.argsort()[::-1]].real
 
-eig_vals, eig_vecs = np.linalg.eig(np.dot(np.linalg.inv(Sw), Sb))
-
-# t = eig_vecs[:, eig_vals.argsort()[::-1]].T
-t = eig_vecs[:, eig_vals.argsort()[::-1]].T
-
-# projection = np.dot(ds, t[:3, :].T.real)
-# projection = np.dot(ds, t[:3, :].T.real)
+projection = np.dot(ds, sorted_eig_vecs[:, :3]).T
 
 fig = plt.figure()
 ax = Axes3D(fig)
-ax.scatter(projection[:,0], projection[:,1], projection[:,2], c = labels)
+ax.scatter(projection[0], projection[1], projection[2], c = labels, cmap='rainbow')
 
 # -------------------------------------
-
 
 def showimg(imvec):
     plt.figure(figsize=(3,3))
     plt.imshow(imvec.reshape(28, 28), cmap="gray") 
-
-mean = lambda c: np.apply_along_axis(np.mean, 0, c)
-
-test = np.take(ds, np.argwhere(labels == 0), axis=0)
-showimg(test)
-
-test2 = test.reshape(2033, 784)
-
-map(get_class, set(labels))
-
-# classes = [[np.array(ds[j])[0] for j in np.argwhere(labels == i)] for i in range(5)]
-# means = [np.mean(a, axis=0)[0] for a in classes]
-
-# get_si = lambda c, m: np.sum([np.outer((x-m), (x-m)) for x in c])
-# Sw = ([get_si(c, means[i]).shape for i, c in enumerate(classes)])
-# Sw
-
-# np.array(classes[0]).shape
-
-
-# ([(np.outer((a-means[0]), (a-means[0]))) for a in classes[0]])
-
-# [np.dot(np.reshape((classes[0][2]-means[0]), (784, 1)), np.reshape((classes[0][2]-means[0]), (784, 1)).T) for _ in range(20000)]
-
