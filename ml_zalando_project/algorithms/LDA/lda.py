@@ -29,8 +29,10 @@ projection4 = np.dot(ds, sorted_eig_vecs[:, :4])
 print(projection.T.shape)
 print(projection4.shape)
 
-np.save('lda3_projected.npy', projection.T)
-np.save('lda4_projected.npy', projection4)
+np.save('sorted_eigvecs_3.npy', sorted_eig_vecs[:, :3])
+np.save('sorted_eigvecs_4.npy', sorted_eig_vecs[:, :4])
+#np.save('lda3_projected.npy', projection.T)
+#np.save('lda4_projected.npy', projection4)
 
 # 3D plot of projected data
 fig = plt.figure()
