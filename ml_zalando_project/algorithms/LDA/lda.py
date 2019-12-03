@@ -25,6 +25,15 @@ eig_vals, eig_vecs = np.linalg.eig(np.dot(np.linalg.inv(within_scat), between_sc
 sorted_eig_vecs = eig_vecs[:, eig_vals.argsort()[::-1]].real
 
 projection = np.dot(ds, sorted_eig_vecs[:, :3]).T
+projection4 = np.dot(ds, sorted_eig_vecs[:, :4])
+
+print(projection.T.shape)
+print(projection4.shape)
+
+np.save('sorted_eigvecs_3.npy', sorted_eig_vecs[:, :3])
+np.save('sorted_eigvecs_4.npy', sorted_eig_vecs[:, :4])
+#np.save('lda3_projected.npy', projection.T)
+#np.save('lda4_projected.npy', projection4)
 
 projection.shape
 
