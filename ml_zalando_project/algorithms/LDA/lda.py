@@ -63,13 +63,5 @@ data_test = np.load("../../data/test_data_no_touch/fashion_test.npy")
 ds_test = np.reshape((np.array([x[:-1] for x in data_test], dtype = np.float32) / 255), (-1, 784))
 labels_test = np.array([x[-1] for x in data_test])
 
-pred = [predict(x) for x in ds_test]
-accuracy_score(labels_test, pred)
-
-# Functional, but super inefficient impplementation
-# def predict(x):
-#     x = x.reshape(784, 1)
-#     disc = [(np.matmul(np.matmul(x.T, np.linalg.inv(class_cov_est)), mean(c).T)
-#     - 0.5*np.matmul(np.matmul(mean(c), np.linalg.inv(class_cov_est)), mean(c).T)
-#     + np.log(prior(c))) for c in classes]
-#     return np.argmax(disc)
+predictions = [predict(x) for x in ds_test]
+accuracy_score(labels_test, predictions)
