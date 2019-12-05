@@ -12,13 +12,16 @@ def classifier(train_instances, train_labels, test_instances, test_labels):
     means = [np.mean(train_instances[train_labels == i], axis = 0) for i in range(5)]
     print(means)
     accurate = 0
+    result_matrix = np.zeros((5,5))
     for idx, row in enumerate(test_instances):
         #print(row)
         distances = np.array([np.linalg.norm(row - this_mean) for this_mean in means])
         #print(distances)
+        result_matrix[test_labels[idx], distances.argmin()] += 1
         if (distances.argmin() == test_labels[idx]):
             accurate += 1
     print(accurate/test_labels.shape[0])
+    print(result_matrix)
 
 
 if __name__ == '__main__':
