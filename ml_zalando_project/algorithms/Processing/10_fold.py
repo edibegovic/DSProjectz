@@ -1,19 +1,12 @@
 
 import numpy as np
-from sklearn.model_selection import KFold
 
-ds = np.load("../../data/original_files/fashion_train.npy")
+k = 10
+k_f = set(range(k))
+ds = np.load("../../data/fashion_train.npy")
+np.random.shuffle(ds)
+folds = np.split(ds, k)
 
-data = np.array([x[:-1] for x in ds])/255
-labels = [x[-1] for x in ds]
-
-cv = KFold(n_splits=10, random_state=42, shuffle=True)
-idx = 0
-for train_index, test_index in cv.split(labels):
-    np.save(f"../../data/10_fold/{idx}_train_input.npy", [data[i] for i in train_index])
-    np.save(f"../../data/10_fold/{idx}_train_label.npy", [labels[i] for i in train_index])
-    np.save(f"../../data/10_fold/{idx}_test_input.npy", [data[i] for i in test_index])
-    np.save(f"../../data/10_fold/{idx}_test_label.npy", [labels[i] for i in test_index])
-    idx += 1
-
-
+for fold in range(k):
+    np.save(f"../../data/10_fold/{fold}_train.npy", np.take(folds, list(k_f-{fold}), axis=0).reshape(9000, 785).shape)
+    np.save(f"../../data/10_fold/{fold}_test.npy", folds[fold])
