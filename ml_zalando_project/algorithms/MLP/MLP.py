@@ -1,9 +1,10 @@
+###### Tensorflow 2 #######
 
 from __future__ import absolute_import, division, print_function
 import tensorflow as tf
 import numpy as np
 
-#Run to upgrade Tensorflow in Google Colabs.
+#Run to upgrade Tensorflow in Google Colabs to 2.
 # !pip install --upgrade tensorflow
 # tf.__version__
 
@@ -31,22 +32,22 @@ batch_size = 400
 ###########################################################################################
 
 
-def training_data(x_train, y_train, batch_size = 250, shuffles = 10000): #Shuffle and divide data up into batches.
+def training_data(x_train, y_train, batch_size = 250, shuffles = 10000): #Shuffle and divide data up into training batches.
     
     train_data = tf.data.Dataset.from_tensor_slices((x_train, y_train))  
-    train_data = train_data.repeat().shuffle(shuffles).batch(batch_size)
+    train_data = train_data.repeat().shuffle(shuffles).batch(batch_size) #Shuffle and batch data.
     
     return train_data
 
-def init_weights(features, hiddens): #Initialize X number of Tensors for the weights and biases. 
+def init_weights(features, hiddens): #Initialize Tensors for the weights and biases of each layer.
     
     weights = {}
     biases = {}
-    random_normal = tf.initializers.RandomNormal()
+    random_normal = tf.initializers.RandomNormal() #Initialize weights 
     
     for idx, neurons in enumerate(hiddens):
         if idx == 0:
-            weights[idx] = tf.Variable(random_normal([features, neurons]))
+            weights[idx] = tf.Variable(random_normal([features, neurons])) 
             biases[idx] = tf.Variable(tf.zeros([neurons]))
         else:
             weights[idx] = tf.Variable(random_normal([hiddens[idx-1], neurons]))
@@ -59,14 +60,14 @@ def model(images): #Formula for the fucntion of the neurons.
     for idx in range(len(weights)):
         images = tf.add(tf.matmul(images, weights[idx]), biases[idx])
         if idx != len(weights)-1:
-            images = tf.nn.relu(images) #This runs on the output layer to return a probability.
+            images = tf.nn.relu(images) #ReLU activation fucntion.
             
-    return tf.nn.softmax(images)
+    return tf.nn.softmax(images)    #This runs on the output layer to return a probability.
 
 def loss_function(predictions, true):  #Multi-class Cross-entropy loss function.
     
     true = tf.one_hot(true, depth = num_classes)
-    predictions = tf.clip_by_value(predictions, 1e-9, 1.) 
+    predictions = tf.clip_by_value(predictions, 1e-9, 1.) #Clip values to an interval to avoid log problems.
     
     return tf.reduce_mean(-tf.reduce_sum(true * tf.math.log(predictions)))
 
