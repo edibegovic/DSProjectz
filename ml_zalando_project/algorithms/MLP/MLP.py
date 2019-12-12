@@ -89,3 +89,6 @@ for step, (x_batch, y_batch) in enumerate(train_data.take(training_steps), 1): #
     
     optimization(x_batch, y_batch)
     prediction = model(x_batch)
+
+#Reference to:
+#https://github.com/aymericdamien/TensorFlow-Examples/tree/master/tensorflow_v2
